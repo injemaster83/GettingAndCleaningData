@@ -7,14 +7,17 @@ This readme file explains the code used in the Course Project, which is complete
 Before answering the questions in this assignment, all the datafiles needed should be read properly. 
 
 In the original folder there are three sources of files:
--Complementary data: There are two files with metadata: 
+
+*Complementary data: There are two files with metadata: 
 features.txt: Contains the name of the 561 features.
 activity_labels.txt: Contains the labels of the six activity labels present in the y_train and y_test files.
--Train set: There are three files with the train set information:
+
+*Train set: There are three files with the train set information:
 X_train.txt: Contains the 561 variables used as features for 7.352 rows.
 y_train.txt: Contains the activity information for 7.352 rows.
 subject_train.txt: Contains the subject information for 7.352 rows.
--Test set: Just as the train set, there are three files with the test set information:
+
+*Test set: Just as the train set, there are three files with the test set information:
 X_test.txt: Contains the 561 variables used as features for 2.947 rows.
 y_test.txt: Contains the activity information for 2.947 rows.
 subject_test.txt: Contains the subject information for 2.947 rows.
@@ -34,9 +37,10 @@ activity_labels file were named "activity" (code) and "act_name" (description).
 ##Part 1: Merge train and test set
 
 The steps followed for merging are:
--Adding the variables in X_train, y_train and subject_train datasets with cbind. The resultant dataset has 563 variables (561+1+1) and 7.352 rows.
--Adding the variables in X_test, y_test and subject_test datasets with cbind. The resultant dataset has 563 variables (561+1+1) and 2.947 rows.
--Append the train and test sets obtained in the previous steps with rbind. The resultant data set has 563 variables and 10.299 rows.
+
+*Adding the variables in X_train, y_train and subject_train datasets with cbind. The resultant dataset has 563 variables (561+1+1) and 7.352 rows.
+*Adding the variables in X_test, y_test and subject_test datasets with cbind. The resultant dataset has 563 variables (561+1+1) and 2.947 rows.
+*Append the train and test sets obtained in the previous steps with rbind. The resultant data set has 563 variables and 10.299 rows.
 
 ##Part 2: Extract measurements on the mean and standard deviation
 
@@ -50,9 +54,10 @@ added to this group of variables, obtaining as output a reduced dataset of 68 va
 
 The activity_labels.txt file has the description of the six activity codes present in the dataset. For better understanding purposes, the codes were replaced with 
 description. The procedure to achieve this is as follows:
--Add the variable "act_name" from the activity_labels to the resulting dataset from Part 2, using variable "activity" as key. 
--Remove the original "activity" variable containing code.
--Rename "act_name" as "activity".
+
+*Add the variable "act_name" from the activity_labels to the resulting dataset from Part 2, using variable "activity" as key. 
+*Remove the original "activity" variable containing code.
+*Rename "act_name" as "activity".
 
 These steps can be interpreted as a replacement of the codes in variable "activity" with their respective descriptions.
 
@@ -60,18 +65,19 @@ These steps can be interpreted as a replacement of the codes in variable "activi
 
 The 66 features selected in Part 2 were renamed with more descriptive names. The transformation from the original to the final names was done in 12 steps, using 
 the following string replacement:
--1: Replace the first character of every variable (f->frequency, t->time)
--2: Replace "bodybody" for "body-"
--3: Replace "acc" for "acceleration-"
--4: Replace "gyro" for "angularvelocity-"
--5: Replace "mag" for "magnitude-"
--6: Replace "gravity" for "gravity-"
--7: Replace "jerk" for "jerk-"
--8: Replace "-std()" for "-standarddeviation"
--9: Replace "-mean()" for "-mean"
--10: Replace "()" for ""
--11: Replace "--" for "-"
--12: Delete the last character if it is "-"
+
+1. Replace the first character of every variable (f->frequency, t->time)
+2. Replace "bodybody" for "body-"
+3. Replace "acc" for "acceleration-"
+4. Replace "gyro" for "angularvelocity-"
+5. Replace "mag" for "magnitude-"
+6. Replace "gravity" for "gravity-"
+7. Replace "jerk" for "jerk-"
+8. Replace "-std()" for "-standarddeviation"
+9. Replace "-mean()" for "-mean"
+10. Replace "()" for ""
+11. Replace "--" for "-"
+12. Delete the last character if it is "-"
 
 After these 12 replacements, the names "subject" and "activity" were added to the names vector. Finally, the variables in the dataset were named using this vector of 
 size 68.
@@ -81,8 +87,7 @@ size 68.
 The resulting dataset from Part 4 contains 68 variables (66 festures plus the grouping variables "subject" and "activity") and 10.299 rows. This dataset was summarized
 using the mean statistic, grouped by subject and activity. So, for every combination of subject and activity (180 in total), the mean of every one of the 66 features 
 was calculated. 
-As a result, the final tidy dataset contains 180 rows and 68 variables, with "subject" and "activity" as key. This dataset was exported as text with the name 
-"tidy_data.txt".
+As a result, the final tidy dataset contains 180 rows and 68 variables, with "subject" and "activity" as key. This dataset was exported as text with the name "tidy_data.txt".
  
 ##Annex
 
