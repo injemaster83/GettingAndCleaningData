@@ -10,20 +10,20 @@ In the original folder there are three sources of files:
 
 1. Complementary data: There are two files with metadata: 
 
-1. features.txt: Contains the name of the 561 features.
-2. activity_labels.txt: Contains the labels of the six activity labels present in the y_train and y_test files.
+-features.txt: Contains the name of the 561 features.
+-activity_labels.txt: Contains the labels of the six activity labels present in the y_train and y_test files.
 
 2. Train set: There are three files with the train set information:
 
-1. X_train.txt: Contains the 561 variables used as features for 7.352 rows.
-2. y_train.txt: Contains the activity information for 7.352 rows.
-3. subject_train.txt: Contains the subject information for 7.352 rows.
+-X_train.txt: Contains the 561 variables used as features for 7.352 rows.
+-y_train.txt: Contains the activity information for 7.352 rows.
+-subject_train.txt: Contains the subject information for 7.352 rows.
 
 3. Test set: Just as the train set, there are three files with the test set information:
 
-1. X_test.txt: Contains the 561 variables used as features for 2.947 rows.
-2. y_test.txt: Contains the activity information for 2.947 rows.
-3. subject_test.txt: Contains the subject information for 2.947 rows.
+-X_test.txt: Contains the 561 variables used as features for 2.947 rows.
+-y_test.txt: Contains the activity information for 2.947 rows.
+-subject_test.txt: Contains the subject information for 2.947 rows.
 
 Additionally, in the folder there is Inertial Signals information, for the train and test sets. However, it is NOT used to build the tidy data file.
 Anyway, the code to read the Inertial Signals for the train and test sets is provided, but it is not necessary to do it.
