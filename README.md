@@ -1,6 +1,6 @@
 # Explanation of the code
 
-This readme file explains the code used in the Course Project, which is completely contained in the file "run_analysis.R".
+This readme file explains the code used in the Course Project, which is completely contained in the file "run_analysis.R". 
 
 ##Part 0: Read all data
 
@@ -88,8 +88,9 @@ The resulting dataset from Part 4 contains 68 variables (66 festures plus the gr
 using the mean statistic, grouped by subject and activity. So, for every combination of subject and activity (180 in total), the mean of every one of the 66 features 
 was calculated. 
 As a result, the final tidy dataset contains 180 rows and 68 variables, with "subject" and "activity" as key. This dataset was exported as text with the name "tidy_data.txt".
- 
+NOTE: The tidy data file (tidy_data.txt) was uploaded in the Course Project page in Coursera AND in the GitHub repo. 
+
 ##Annex
 
 At the end ot the "run_analysis.R" file, you can find auxiliary code used for creating the Code Book. 
-The file "details.txt", referenced in this code, is included in this repo.
+The file "details.txt", referenced in this code, is included in the GitHub repo.
