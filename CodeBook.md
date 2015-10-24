@@ -52,6 +52,7 @@ For further details, please check the README file: https://github.com/injemaster
  - Summary of the data
 
 Variable 1: subject
+
 Min.   : 1.0  
 1st Qu.: 8.0  
 Median :15.5  
@@ -60,11 +61,13 @@ Mean   :15.5
 Max.   :30.0  
 
 Variable 2: activity
+
 Length:180        
 Class :character  
 Mode  :character  
 
 Variable 3: time-body-acceleration-mean-x
+
 Min.   :0.2216  
 1st Qu.:0.2712  
 Median :0.2770  
@@ -73,6 +76,7 @@ Mean   :0.2743
 Max.   :0.3015  
 
 Variable 4: time-body-acceleration-mean-y
+
 Min.   :-0.040514  
 1st Qu.:-0.020022  
 Median :-0.017262  
@@ -81,6 +85,7 @@ Mean   :-0.017876
 Max.   :-0.001308  
 
 Variable 5: time-body-acceleration-mean-z
+
 Min.   :-0.15251  
 1st Qu.:-0.11207  
 Median :-0.10819  
@@ -89,6 +94,7 @@ Mean   :-0.10916
 Max.   :-0.07538  
 
 Variable 6: time-gravity-acceleration-mean-x
+
 Min.   :-0.6800  
 1st Qu.: 0.8376  
 Median : 0.9208  
@@ -97,6 +103,7 @@ Mean   : 0.6975
 Max.   : 0.9745  
 
 Variable 7: time-gravity-acceleration-mean-y
+
 Min.   :-0.47989  
 1st Qu.:-0.23319  
 Median :-0.12782  
@@ -105,6 +112,7 @@ Mean   :-0.01621
 Max.   : 0.95659  
 
 Variable 8: time-gravity-acceleration-mean-z
+
 Min.   :-0.49509  
 1st Qu.:-0.11726  
 Median : 0.02384  
@@ -113,6 +121,7 @@ Mean   : 0.07413
 Max.   : 0.95787  
 
 Variable 9: time-body-acceleration-jerk-mean-x
+
 Min.   :0.04269  
 1st Qu.:0.07396  
 Median :0.07640  
@@ -121,6 +130,7 @@ Mean   :0.07947
 Max.   :0.13019  
 
 Variable 10: time-body-acceleration-jerk-mean-y
+
 Min.   :-0.0386872  
 1st Qu.: 0.0004664  
 Median : 0.0094698  
@@ -129,6 +139,7 @@ Mean   : 0.0075652
 Max.   : 0.0568186  
 
 Variable 11: time-body-acceleration-jerk-mean-z
+
 Min.   :-0.067458  
 1st Qu.:-0.010601  
 Median :-0.003861  
@@ -137,6 +148,7 @@ Mean   :-0.004953
 Max.   : 0.038053  
 
 Variable 12: time-body-angularvelocity-mean-x
+
 Min.   :-0.20578  
 1st Qu.:-0.04712  
 Median :-0.02871  
@@ -145,6 +157,7 @@ Mean   :-0.03244
 Max.   : 0.19270  
 
 Variable 13: time-body-angularvelocity-mean-y
+
 Min.   :-0.20421  
 1st Qu.:-0.08955  
 Median :-0.07318  
@@ -153,6 +166,7 @@ Mean   :-0.07426
 Max.   : 0.02747  
 
 Variable 14: time-body-angularvelocity-mean-z
+
 Min.   :-0.07245  
 1st Qu.: 0.07475  
 Median : 0.08512  
@@ -161,6 +175,7 @@ Mean   : 0.08744
 Max.   : 0.17910  
 
 Variable 15: time-body-angularvelocity-jerk-mean-x
+
 Min.   :-0.15721  
 1st Qu.:-0.10322  
 Median :-0.09868  
@@ -169,6 +184,7 @@ Mean   :-0.09606
 Max.   :-0.02209  
 
 Variable 16: time-body-angularvelocity-jerk-mean-y
+
 Min.   :-0.07681  
 1st Qu.:-0.04552  
 Median :-0.04112  
@@ -177,6 +193,7 @@ Mean   :-0.04269
 Max.   :-0.01320  
 
 Variable 17: time-body-angularvelocity-jerk-mean-z
+
 Min.   :-0.092500  
 1st Qu.:-0.061725  
 Median :-0.053430  
@@ -185,6 +202,7 @@ Mean   :-0.054802
 Max.   :-0.006941  
 
 Variable 18: time-body-acceleration-magnitude-mean
+
 Min.   :-0.9865  
 1st Qu.:-0.9573  
 Median :-0.4829  
@@ -193,6 +211,7 @@ Mean   :-0.4973
 Max.   : 0.6446  
 
 Variable 19: time-gravity-acceleration-magnitude-mean
+
 Min.   :-0.9865  
 1st Qu.:-0.9573  
 Median :-0.4829  
@@ -201,6 +220,7 @@ Mean   :-0.4973
 Max.   : 0.6446  
 
 Variable 20: time-body-acceleration-jerk-magnitude-mean
+
 Min.   :-0.9928  
 1st Qu.:-0.9807  
 Median :-0.8168  
@@ -209,6 +229,7 @@ Mean   :-0.6079
 Max.   : 0.4345  
 
 Variable 21: time-body-angularvelocity-magnitude-mean
+
 Min.   :-0.9807  
 1st Qu.:-0.9461  
 Median :-0.6551  
@@ -217,6 +238,7 @@ Mean   :-0.5652
 Max.   : 0.4180  
 
 Variable 22: time-body-angularvelocity-jerk-magnitude-mean
+
 Min.   :-0.99732  
 1st Qu.:-0.98515  
 Median :-0.86479  
@@ -225,6 +247,7 @@ Mean   :-0.73637
 Max.   : 0.08758  
 
 Variable 23: frequency-body-acceleration-mean-x
+
 Min.   :-0.9952  
 1st Qu.:-0.9787  
 Median :-0.7691  
@@ -233,6 +256,7 @@ Mean   :-0.5758
 Max.   : 0.5370  
 
 Variable 24: frequency-body-acceleration-mean-y
+
 Min.   :-0.98903  
 1st Qu.:-0.95361  
 Median :-0.59498  
@@ -241,6 +265,7 @@ Mean   :-0.48873
 Max.   : 0.52419  
 
 Variable 25: frequency-body-acceleration-mean-z
+
 Min.   :-0.9895  
 1st Qu.:-0.9619  
 Median :-0.7236  
@@ -249,6 +274,7 @@ Mean   :-0.6297
 Max.   : 0.2807  
 
 Variable 26: frequency-body-acceleration-jerk-mean-x
+
 Min.   :-0.9946  
 1st Qu.:-0.9828  
 Median :-0.8126  
@@ -257,6 +283,7 @@ Mean   :-0.6139
 Max.   : 0.4743  
 
 Variable 27: frequency-body-acceleration-jerk-mean-y
+
 Min.   :-0.9894  
 1st Qu.:-0.9725  
 Median :-0.7817  
@@ -265,6 +292,7 @@ Mean   :-0.5882
 Max.   : 0.2767  
 
 Variable 28: frequency-body-acceleration-jerk-mean-z
+
 Min.   :-0.9920  
 1st Qu.:-0.9796  
 Median :-0.8707  
@@ -273,6 +301,7 @@ Mean   :-0.7144
 Max.   : 0.1578  
 
 Variable 29: frequency-body-angularvelocity-mean-x
+
 Min.   :-0.9931  
 1st Qu.:-0.9697  
 Median :-0.7300  
@@ -281,6 +310,7 @@ Mean   :-0.6367
 Max.   : 0.4750  
 
 Variable 30: frequency-body-angularvelocity-mean-y
+
 Min.   :-0.9940  
 1st Qu.:-0.9700  
 Median :-0.8141  
@@ -289,6 +319,7 @@ Mean   :-0.6767
 Max.   : 0.3288  
 
 Variable 31: frequency-body-angularvelocity-mean-z
+
 Min.   :-0.9860  
 1st Qu.:-0.9624  
 Median :-0.7909  
@@ -297,6 +328,7 @@ Mean   :-0.6044
 Max.   : 0.4924  
 
 Variable 32: frequency-body-acceleration-magnitude-mean
+
 Min.   :-0.9868  
 1st Qu.:-0.9560  
 Median :-0.6703  
@@ -305,6 +337,7 @@ Mean   :-0.5365
 Max.   : 0.5866  
 
 Variable 33: frequency-body-acceleration-jerk-magnitude-mean
+
 Min.   :-0.9940  
 1st Qu.:-0.9770  
 Median :-0.7940  
@@ -313,6 +346,7 @@ Mean   :-0.5756
 Max.   : 0.5384  
 
 Variable 34: frequency-body-angularvelocity-magnitude-mean
+
 Min.   :-0.9865  
 1st Qu.:-0.9616  
 Median :-0.7657  
@@ -321,6 +355,7 @@ Mean   :-0.6671
 Max.   : 0.2040  
 
 Variable 35: frequency-body-angularvelocity-jerk-magnitude-mean
+
 Min.   :-0.9976  
 1st Qu.:-0.9813  
 Median :-0.8779  
@@ -329,6 +364,7 @@ Mean   :-0.7564
 Max.   : 0.1466  
 
 Variable 36: time-body-acceleration-standarddeviation-x
+
 Min.   :-0.9961  
 1st Qu.:-0.9799  
 Median :-0.7526  
@@ -337,6 +373,7 @@ Mean   :-0.5577
 Max.   : 0.6269  
 
 Variable 37: time-body-acceleration-standarddeviation-y
+
 Min.   :-0.99024  
 1st Qu.:-0.94205  
 Median :-0.50897  
@@ -345,6 +382,7 @@ Mean   :-0.46046
 Max.   : 0.61694  
 
 Variable 38: time-body-acceleration-standarddeviation-z
+
 Min.   :-0.9877  
 1st Qu.:-0.9498  
 Median :-0.6518  
@@ -353,6 +391,7 @@ Mean   :-0.5756
 Max.   : 0.6090  
 
 Variable 39: time-gravity-acceleration-standarddeviation-x
+
 Min.   :-0.9968  
 1st Qu.:-0.9825  
 Median :-0.9695  
@@ -361,6 +400,7 @@ Mean   :-0.9638
 Max.   :-0.8296  
 
 Variable 40: time-gravity-acceleration-standarddeviation-y
+
 Min.   :-0.9942  
 1st Qu.:-0.9711  
 Median :-0.9590  
@@ -369,6 +409,7 @@ Mean   :-0.9524
 Max.   :-0.6436  
 
 Variable 41: time-gravity-acceleration-standarddeviation-z
+
 Min.   :-0.9910  
 1st Qu.:-0.9605  
 Median :-0.9450  
@@ -377,6 +418,7 @@ Mean   :-0.9364
 Max.   :-0.6102  
 
 Variable 42: time-body-acceleration-jerk-standarddeviation-x
+
 Min.   :-0.9946  
 1st Qu.:-0.9832  
 Median :-0.8104  
@@ -385,6 +427,7 @@ Mean   :-0.5949
 Max.   : 0.5443  
 
 Variable 43: time-body-acceleration-jerk-standarddeviation-y
+
 Min.   :-0.9895  
 1st Qu.:-0.9724  
 Median :-0.7756  
@@ -393,6 +436,7 @@ Mean   :-0.5654
 Max.   : 0.3553  
 
 Variable 44: time-body-acceleration-jerk-standarddeviation-z
+
 Min.   :-0.99329  
 1st Qu.:-0.98266  
 Median :-0.88366  
@@ -401,6 +445,7 @@ Mean   :-0.73596
 Max.   : 0.03102  
 
 Variable 45: time-body-angularvelocity-standarddeviation-x
+
 Min.   :-0.9943  
 1st Qu.:-0.9735  
 Median :-0.7890  
@@ -409,6 +454,7 @@ Mean   :-0.6916
 Max.   : 0.2677  
 
 Variable 46: time-body-angularvelocity-standarddeviation-y
+
 Min.   :-0.9942  
 1st Qu.:-0.9629  
 Median :-0.8017  
@@ -417,6 +463,7 @@ Mean   :-0.6533
 Max.   : 0.4765  
 
 Variable 47: time-body-angularvelocity-standarddeviation-z
+
 Min.   :-0.9855  
 1st Qu.:-0.9609  
 Median :-0.8010  
@@ -425,6 +472,7 @@ Mean   :-0.6164
 Max.   : 0.5649  
 
 Variable 48: time-body-angularvelocity-jerk-standarddeviation-x
+
 Min.   :-0.9965  
 1st Qu.:-0.9800  
 Median :-0.8396  
@@ -433,6 +481,7 @@ Mean   :-0.7036
 Max.   : 0.1791  
 
 Variable 49: time-body-angularvelocity-jerk-standarddeviation-y
+
 Min.   :-0.9971  
 1st Qu.:-0.9832  
 Median :-0.8942  
@@ -441,6 +490,7 @@ Mean   :-0.7636
 Max.   : 0.2959  
 
 Variable 50: time-body-angularvelocity-jerk-standarddeviation-z
+
 Min.   :-0.9954  
 1st Qu.:-0.9848  
 Median :-0.8610  
@@ -449,6 +499,7 @@ Mean   :-0.7096
 Max.   : 0.1932  
 
 Variable 51: time-body-acceleration-magnitude-standarddeviation
+
 Min.   :-0.9865  
 1st Qu.:-0.9430  
 Median :-0.6074  
@@ -457,6 +508,7 @@ Mean   :-0.5439
 Max.   : 0.4284  
 
 Variable 52: time-gravity-acceleration-magnitude-standarddeviation
+
 Min.   :-0.9865  
 1st Qu.:-0.9430  
 Median :-0.6074  
@@ -465,6 +517,7 @@ Mean   :-0.5439
 Max.   : 0.4284  
 
 Variable 53: time-body-acceleration-jerk-magnitude-standarddeviation
+
 Min.   :-0.9946  
 1st Qu.:-0.9765  
 Median :-0.8014  
@@ -473,6 +526,7 @@ Mean   :-0.5842
 Max.   : 0.4506  
 
 Variable 54: time-body-angularvelocity-magnitude-standarddeviation
+
 Min.   :-0.9814  
 1st Qu.:-0.9476  
 Median :-0.7420  
@@ -481,6 +535,7 @@ Mean   :-0.6304
 Max.   : 0.3000  
 
 Variable 55: time-body-angularvelocity-jerk-magnitude-standarddeviation
+
 Min.   :-0.9977  
 1st Qu.:-0.9805  
 Median :-0.8809  
@@ -489,6 +544,7 @@ Mean   :-0.7550
 Max.   : 0.2502  
 
 Variable 56: frequency-body-acceleration-standarddeviation-x
+
 Min.   :-0.9966  
 1st Qu.:-0.9820  
 Median :-0.7470  
@@ -497,6 +553,7 @@ Mean   :-0.5522
 Max.   : 0.6585  
 
 Variable 57: frequency-body-acceleration-standarddeviation-y
+
 Min.   :-0.99068  
 1st Qu.:-0.94042  
 Median :-0.51338  
@@ -505,6 +562,7 @@ Mean   :-0.48148
 Max.   : 0.56019  
 
 Variable 58: frequency-body-acceleration-standarddeviation-z
+
 Min.   :-0.9872  
 1st Qu.:-0.9459  
 Median :-0.6441  
@@ -513,6 +571,7 @@ Mean   :-0.5824
 Max.   : 0.6871  
 
 Variable 59: frequency-body-acceleration-jerk-standarddeviation-x
+
 Min.   :-0.9951  
 1st Qu.:-0.9847  
 Median :-0.8254  
@@ -521,6 +580,7 @@ Mean   :-0.6121
 Max.   : 0.4768  
 
 Variable 60: frequency-body-acceleration-jerk-standarddeviation-y
+
 Min.   :-0.9905  
 1st Qu.:-0.9737  
 Median :-0.7852  
@@ -529,6 +589,7 @@ Mean   :-0.5707
 Max.   : 0.3498  
 
 Variable 61: frequency-body-acceleration-jerk-standarddeviation-z
+
 Min.   :-0.993108  
 1st Qu.:-0.983747  
 Median :-0.895121  
@@ -537,6 +598,7 @@ Mean   :-0.756489
 Max.   :-0.006236  
 
 Variable 62: frequency-body-angularvelocity-standarddeviation-x
+
 Min.   :-0.9947  
 1st Qu.:-0.9750  
 Median :-0.8086  
@@ -545,6 +607,7 @@ Mean   :-0.7110
 Max.   : 0.1966  
 
 Variable 63: frequency-body-angularvelocity-standarddeviation-y
+
 Min.   :-0.9944  
 1st Qu.:-0.9602  
 Median :-0.7964  
@@ -553,6 +616,7 @@ Mean   :-0.6454
 Max.   : 0.6462  
 
 Variable 64: frequency-body-angularvelocity-standarddeviation-z
+
 Min.   :-0.9867  
 1st Qu.:-0.9643  
 Median :-0.8224  
@@ -561,6 +625,7 @@ Mean   :-0.6577
 Max.   : 0.5225  
 
 Variable 65: frequency-body-acceleration-magnitude-standarddeviation
+
 Min.   :-0.9876  
 1st Qu.:-0.9452  
 Median :-0.6513  
@@ -569,6 +634,7 @@ Mean   :-0.6210
 Max.   : 0.1787  
 
 Variable 66: frequency-body-acceleration-jerk-magnitude-standarddeviation
+
 Min.   :-0.9944  
 1st Qu.:-0.9752  
 Median :-0.8126  
@@ -577,6 +643,7 @@ Mean   :-0.5992
 Max.   : 0.3163  
 
 Variable 67: frequency-body-angularvelocity-magnitude-standarddeviation
+
 Min.   :-0.9815  
 1st Qu.:-0.9488  
 Median :-0.7727  
@@ -585,12 +652,13 @@ Mean   :-0.6723
 Max.   : 0.2367  
 
 Variable 68: frequency-body-angularvelocity-jerk-magnitude-standarddeviation
+
 Min.   :-0.9976  
 1st Qu.:-0.9802  
 Median :-0.8941  
 Mean   :-0.7715  
 3rd Qu.:-0.6081  
-Max.   : 0.2878  
+Max.   : 0.2878   
 
  - Variables present in the dataset
 1. subject
@@ -666,9 +734,9 @@ Max.   : 0.2878
 
 Variable 1: subject
 
--Class: character
+* Class: character
 
--Unique values:
+* Unique values:
 1 3 5 6 7
 8 11 14 15 16
 17 19 21 22 23
@@ -676,18 +744,18 @@ Variable 1: subject
 30 2 4 9 10
 12 13 18 20 24
 
--Description of the variable:
+* Description of the variable:
 Id of the subject of the experiment
 
--Explanation of the schema:
+* Explanation of the schema:
 N/A
 
 
 Variable 2: activity
 
--Class: character
+* Class: character
 
--Unique values:
+* Unique values:
 WALKING
 WALKING_UPSTAIRS
 WALKING_DOWNSTAIRS
@@ -695,18 +763,18 @@ SITTING
 STANDING
 LAYING
 
--Description of the variable:
+* Description of the variable:
 Activity performed by subject
 
--Explanation of the schema:
+* Explanation of the schema:
 N/A
 
 
 Variable 3: time-body-acceleration-mean-x
 
--Class: character
+* Class: character
 
--Unique values:
+* Unique values:
 0.2773308 0.2755675 0.2778423 0.2836589 0.275593
 0.2746863 0.2718219 0.2719596 0.2738992 0.2760236
 0.2723419 0.2739312 0.2791835 0.2788646 0.2732119
@@ -744,18 +812,18 @@ Variable 3: time-body-acceleration-mean-x
 0.2810339 0.2813734 0.2635592 0.2591955 0.2802306
 0.2601134 0.2767164 0.2746916 0.2395079 0.2728505
 
--Description of the variable:
+* Description of the variable:
 Average by subject and activity of the variable "mean of 128 readings of body motion acceleration in axis X in the time domain (normalized between -1 and 1)"
 
--Explanation of the schema:
+* Explanation of the schema:
 First level is the domain of the variable (frequency or time), second level indicates the component (body motion or gravitational), third level is the physics concept measured (acceleration or angular velocity), fourth level is the statistic measured (mean or standard deviation), fifth level is the axis.
 
 
 Variable 4: time-body-acceleration-mean-y
 
--Class: character
+* Class: character
 
--Unique values:
+* Unique values:
 -0.01738382 -0.01717678 -0.01728503 -0.01689542 -0.01865367
 -0.01866289 -0.01664758 -0.02177854 -0.01708097 -0.02042869
 -0.01848754 -0.01917736 -0.01816103 -0.01672136 -0.01836187
@@ -793,18 +861,18 @@ Variable 4: time-body-acceleration-mean-y
 -0.01944941 -0.01815874 -0.01500318 -0.02052682 -0.02429448
 -0.01752039 -0.02044045 -0.01739377 -0.01444063 -0.01735552
 
--Description of the variable:
+* Description of the variable:
 Average by subject and activity of the variable "mean of 128 readings of body motion acceleration in axis Y in the time domain (normalized between -1 and 1)"
 
--Explanation of the schema:
+* Explanation of the schema:
 First level is the domain of the variable (frequency or time), second level indicates the component (body motion or gravitational), third level is the physics concept measured (acceleration or angular velocity), fourth level is the statistic measured (mean or standard deviation), fifth level is the axis.
 
 
 Variable 5: time-body-acceleration-mean-z
 
--Class: character
+* Class: character
 
--Unique values:
+* Unique values:
 -0.1111481 -0.1126749 -0.1077418 -0.1103032 -0.1109122
 -0.1072521 -0.1060963 -0.1067564 -0.1076218 -0.108804
 -0.1097921 -0.1227367 -0.1043193 -0.1071125 -0.113383
@@ -842,18 +910,18 @@ Variable 5: time-body-acceleration-mean-z
 -0.1036582 -0.1072456 -0.1106882 -0.1075497 -0.1171686
 -0.1081601 -0.1043319 -0.1076989 -0.1042743 -0.1072362
 
--Description of the variable:
+* Description of the variable:
 Average by subject and activity of the variable "mean of 128 readings of body motion acceleration in axis Z in the time domain (normalized between -1 and 1)"
 
--Explanation of the schema:
+* Explanation of the schema:
 First level is the domain of the variable (frequency or time), second level indicates the component (body motion or gravitational), third level is the physics concept measured (acceleration or angular velocity), fourth level is the statistic measured (mean or standard deviation), fifth level is the axis.
 
 
 Variable 6: time-gravity-acceleration-mean-x
 
--Class: character
+* Class: character
 
--Unique values:
+* Unique values:
 0.9352232 0.9365067 0.972625 0.9580675 0.9325665
 0.9135863 0.9464685 0.802974 0.9515244 0.9259813
 0.9281124 0.9352226 0.8625248 0.9360964 0.9398097
@@ -891,18 +959,18 @@ Variable 6: time-gravity-acceleration-mean-x
 -0.3447378 -0.5097542 -0.4206647 -0.5802528 -0.4530697
 -0.3785921 -0.1568522 -0.2206005 -0.4724314 -0.3592925
 
--Description of the variable:
+* Description of the variable:
 Average by subject and activity of the variable "mean of 128 readings of gravitational acceleration in axis X in the time domain (normalized between -1 and 1)"
 
--Explanation of the schema:
+* Explanation of the schema:
 First level is the domain of the variable (frequency or time), second level indicates the component (body motion or gravitational), third level is the physics concept measured (acceleration or angular velocity), fourth level is the statistic measured (mean or standard deviation), fifth level is the axis.
 
 
 Variable 7: time-gravity-acceleration-mean-y
 
--Class: character
+* Class: character
 
--Unique values:
+* Unique values:
 -0.282165 -0.2619864 -0.1004403 -0.2146949 -0.159097
 -0.2171022 -0.2120459 -0.2703148 -0.2339183 -0.06682465
 -0.1799274 -0.2233381 -0.3709845 -0.2596449 -0.1617614
@@ -940,18 +1008,18 @@ Variable 7: time-gravity-acceleration-mean-y
 0.7326612 0.7525366 0.9151651 -0.1191542 -0.1392977
 0.8033788 0.6564009 0.7197554 0.864883 0.7384307
 
--Description of the variable:
+* Description of the variable:
 Average by subject and activity of the variable "mean of 128 readings of gravitational acceleration in axis Y in the time domain (normalized between -1 and 1)"
 
--Explanation of the schema:
+* Explanation of the schema:
 First level is the domain of the variable (frequency or time), second level indicates the component (body motion or gravitational), third level is the physics concept measured (acceleration or angular velocity), fourth level is the statistic measured (mean or standard deviation), fifth level is the axis.
 
 
 Variable 8: time-gravity-acceleration-mean-z
 
--Class: character
+* Class: character
 
--Unique values:
+* Unique values:
 -0.06810286 -0.1381079 0.002476236 0.03318888 -0.1608469
 -0.1862678 0.1340532 -0.4224953 0.07573567 -0.2173512
 -0.1902659 -0.08984288 -0.220948 0.02337801 -0.1607634
@@ -989,18 +1057,18 @@ Variable 8: time-gravity-acceleration-mean-z
 0.6814592 0.6468349 0.3415313 0.957873 -0.03112162
 0.2750432 0.598885 0.6054953 0.4775733 0.6838399
 
--Description of the variable:
+* Description of the variable:
 Average by subject and activity of the variable "mean of 128 readings of gravitational acceleration in axis Z in the time domain (normalized between -1 and 1)"
 
--Explanation of the schema:
+* Explanation of the schema:
 First level is the domain of the variable (frequency or time), second level indicates the component (body motion or gravitational), third level is the physics concept measured (acceleration or angular velocity), fourth level is the statistic measured (mean or standard deviation), fifth level is the axis.
 
 
 Variable 9: time-body-acceleration-jerk-mean-x
 
--Class: character
+* Class: character
 
--Unique values:
+* Unique values:
 0.07404163 0.08147459 0.08458888 0.06995859 0.09014626
 0.07033935 0.08297093 0.07208779 0.08977707 0.07702238
 0.07731886 0.08222463 0.07822518 0.06277776 0.09873191
@@ -1038,18 +1106,18 @@ Variable 9: time-body-acceleration-jerk-mean-x
 0.07521967 0.08259725 0.09344942 0.08807345 0.07381506
 0.08542954 0.07677748 0.0749985 0.0892716 0.08072123
 
--Description of the variable:
+* Description of the variable:
 Average by subject and activity of the variable "mean of 128 readings of body motion acceleration jerk in axis X in the time domain (normalized between -1 and 1)"
 
--Explanation of the schema:
+* Explanation of the schema:
 First level is the domain of the variable (frequency or time), second level indicates the component (body motion or gravitational), third level is the physics concept measured (acceleration or angular velocity), fourth level specifies it is jerk, fifth level is the statistic measured (mean or standard deviation), sixth level is the axis.
 
 
 Variable 10: time-body-acceleration-jerk-mean-y
 
--Class: character
+* Class: character
 
--Unique values:
+* Unique values:
 0.02827211 0.01005915 -0.01631941 -0.01648317 0.01843227
 -0.006039475 0.01276825 0.02411602 0.008905886 0.009684447
 0.01300985 0.01441135 0.002351976 0.03567463 0.01489559
@@ -1087,18 +1155,18 @@ Variable 10: time-body-acceleration-jerk-mean-y
 0.01076802 0.01225479 0.006933132 0.01156173 0.015699
 0.007744083 0.01834419 0.0117019 0.001108225 0.01198195
 
--Description of the variable:
+* Description of the variable:
 Average by subject and activity of the variable "mean of 128 readings of body motion acceleration jerk in axis Y in the time domain (normalized between -1 and 1)"
 
--Explanation of the schema:
+* Explanation of the schema:
 First level is the domain of the variable (frequency or time), second level indicates the component (body motion or gravitational), third level is the physics concept measured (acceleration or angular velocity), fourth level specifies it is jerk, fifth level is the statistic measured (mean or standard deviation), sixth level is the axis.
 
 
 Variable 11: time-body-acceleration-jerk-mean-z
 
--Class: character
+* Class: character
 
--Unique values:
+* Unique values:
 -0.004168406 -0.005622646 8.321594e-05 -0.007389312 -0.02103986
 -0.0006737989 -0.01336483 0.0199723 0.0006587062 0.003608033
 0.02437533 -0.03275287 -0.01018134 0.004436914 -0.001908106
@@ -1136,18 +1204,18 @@ Variable 11: time-body-acceleration-jerk-mean-z
 -0.0003741897 -0.001802649 -0.006410543 -0.007053678 0.007166896
 -0.004371484 -0.009883897 -0.001213448 -0.003098918 -0.005892258
 
--Description of the variable:
+* Description of the variable:
 Average by subject and activity of the variable "mean of 128 readings of body motion acceleration jerk in axis Z in the time domain (normalized between -1 and 1)"
 
--Explanation of the schema:
+* Explanation of the schema:
 First level is the domain of the variable (frequency or time), second level indicates the component (body motion or gravitational), third level is the physics concept measured (acceleration or angular velocity), fourth level specifies it is jerk, fifth level is the statistic measured (mean or standard deviation), sixth level is the axis.
 
 
 Variable 12: time-body-angularvelocity-mean-x
 
--Class: character
+* Class: character
 
--Unique values:
+* Unique values:
 -0.04183096 -0.02564052 -0.04889199 -0.02550962 0.002288352
 0.02350882 -0.0426929 -0.003476551 -0.05548838 -0.01517219
 -0.009222655 -0.0274971 -0.04593234 0.0007771571 -0.06311569
@@ -1185,18 +1253,18 @@ Variable 12: time-body-angularvelocity-mean-x
 -0.02678122 -0.01847661 -0.009231563 -0.01363204 -0.01955594
 -0.01465468 -0.0097361 -0.02517618 -0.02317606 -0.01436799
 
--Description of the variable:
+* Description of the variable:
 Average by subject and activity of the variable "mean of 128 readings of body motion angular velocity in axis X in the time domain (normalized between -1 and 1)"
 
--Explanation of the schema:
+* Explanation of the schema:
 First level is the domain of the variable (frequency or time), second level indicates the component (body motion or gravitational), third level is the physics concept measured (acceleration or angular velocity), fourth level is the statistic measured (mean or standard deviation), fifth level is the axis.
 
 
 Variable 13: time-body-angularvelocity-mean-y
 
--Class: character
+* Class: character
 
--Unique values:
+* Unique values:
 -0.06953005 -0.07791509 -0.06901352 -0.07444625 -0.08371137
 -0.09579179 -0.0705105 -0.08296828 -0.06124279 -0.06959557
 -0.08397733 -0.07515693 -0.05902944 -0.09608807 -0.06401979
@@ -1234,18 +1302,18 @@ Variable 13: time-body-angularvelocity-mean-y
 -0.07614764 -0.1118008 -0.09301282 -0.1589029 -0.07703257
 -0.08355374 -0.09662507 -0.08375873 -0.09548996 -0.09555381
 
--Description of the variable:
+* Description of the variable:
 Average by subject and activity of the variable "mean of 128 readings of body motion angular velocity in axis Y in the time domain (normalized between -1 and 1)"
 
--Explanation of the schema:
+* Explanation of the schema:
 First level is the domain of the variable (frequency or time), second level indicates the component (body motion or gravitational), third level is the physics concept measured (acceleration or angular velocity), fourth level is the statistic measured (mean or standard deviation), fifth level is the axis.
 
 
 Variable 14: time-body-angularvelocity-mean-z
 
--Class: character
+* Class: character
 
--Unique values:
+* Unique values:
 0.08494482 0.08134859 0.08154355 0.08388088 0.06411046
 0.05096579 0.08437445 0.05132227 0.08424849 0.08186507
 0.07571327 0.0798107 0.09837159 0.07752666 0.1077005
@@ -1283,18 +1351,18 @@ Variable 14: time-body-angularvelocity-mean-z
 0.09384722 0.1448828 0.1697204 0.101275 0.1047205
 0.1451918 0.1178196 0.09377819 0.1236802 0.1117307
 
--Description of the variable:
+* Description of the variable:
 Average by subject and activity of the variable "mean of 128 readings of body motion angular velocity in axis Z in the time domain (normalized between -1 and 1)"
 
--Explanation of the schema:
+* Explanation of the schema:
 First level is the domain of the variable (frequency or time), second level indicates the component (body motion or gravitational), third level is the physics concept measured (acceleration or angular velocity), fourth level is the statistic measured (mean or standard deviation), fifth level is the axis.
 
 
 Variable 15: time-body-angularvelocity-jerk-mean-x
 
--Class: character
+* Class: character
 
--Unique values:
+* Unique values:
 -0.08999754 -0.09523982 -0.08884084 -0.08788911 -0.1236542
 -0.1358864 -0.09182042 -0.1106561 -0.07766928 -0.1109173
 -0.1099592 -0.08323533 -0.08687677 -0.1329776 -0.05781282
@@ -1332,18 +1400,18 @@ Variable 15: time-body-angularvelocity-jerk-mean-x
 -0.1022774 -0.1019741 -0.1050199 -0.1038467 -0.1003083
 -0.09904023 -0.1018356 -0.09971542 -0.09950331 -0.1028138
 
--Description of the variable:
+* Description of the variable:
 Average by subject and activity of the variable "mean of 128 readings of body motion angular velocity jerk in axis X in the time domain (normalized between -1 and 1)"
 
--Explanation of the schema:
+* Explanation of the schema:
 First level is the domain of the variable (frequency or time), second level indicates the component (body motion or gravitational), third level is the physics concept measured (acceleration or angular velocity), fourth level specifies it is jerk, fifth level is the statistic measured (mean or standard deviation), sixth level is the axis.
 
 
 Variable 16: time-body-angularvelocity-jerk-mean-y
 
--Class: character
+* Class: character
 
--Unique values:
+* Unique values:
 -0.03984287 -0.03878747 -0.04495595 -0.0362309 -0.0447766
 -0.03148809 -0.05141725 -0.04389695 -0.05525366 -0.04338768
 -0.03792513 -0.03071284 -0.05156503 -0.03219107 -0.05167048
@@ -1381,18 +1449,18 @@ Variable 16: time-body-angularvelocity-jerk-mean-y
 -0.03848759 -0.03585902 -0.03812304 -0.02755226 -0.03887979
 -0.04106753 -0.0417744 -0.03934402 -0.0387763 -0.03823237
 
--Description of the variable:
+* Description of the variable:
 Average by subject and activity of the variable "mean of 128 readings of body motion angular velocity jerk in axis Y in the time domain (normalized between -1 and 1)"
 
--Explanation of the schema:
+* Explanation of the schema:
 First level is the domain of the variable (frequency or time), second level indicates the component (body motion or gravitational), third level is the physics concept measured (acceleration or angular velocity), fourth level specifies it is jerk, fifth level is the statistic measured (mean or standard deviation), sixth level is the axis.
 
 
 Variable 17: time-body-angularvelocity-jerk-mean-z
 
--Class: character
+* Class: character
 
--Unique values:
+* Unique values:
 -0.04613093 -0.05036161 -0.04826796 -0.05395973 -0.04957131
 -0.0522684 -0.03426775 -0.03888259 -0.05109765 -0.05329867
 -0.05138072 -0.0603092 -0.06211921 -0.05698125 -0.09030025
@@ -1430,18 +1498,18 @@ Variable 17: time-body-angularvelocity-jerk-mean-z
 -0.05957368 -0.0701783 -0.07121563 -0.05694905 -0.05907449
 -0.0678909 -0.06487704 -0.0593136 -0.06100283 -0.0624117
 
--Description of the variable:
+* Description of the variable:
 Average by subject and activity of the variable "mean of 128 readings of body motion angular velocity jerk in axis Z in the time domain (normalized between -1 and 1)"
 
--Explanation of the schema:
+* Explanation of the schema:
 First level is the domain of the variable (frequency or time), second level indicates the component (body motion or gravitational), third level is the physics concept measured (acceleration or angular velocity), fourth level specifies it is jerk, fifth level is the statistic measured (mean or standard deviation), sixth level is the axis.
 
 
 Variable 18: time-body-acceleration-magnitude-mean
 
--Class: character
+* Class: character
 
--Unique values:
+* Unique values:
 -0.1369712 -0.2546903 -0.1583387 -0.1668407 -0.09780904
 0.05167863 -0.2883235 -0.1444047 -0.1865147 -0.2587667
 -0.1511515 0.06481734 -0.1234557 0.07224191 -0.09887702
@@ -1479,18 +1547,18 @@ Variable 18: time-body-acceleration-magnitude-mean
 -0.96983 -0.9774355 -0.9545576 -0.9308684 -0.9567818
 -0.9482047 -0.9605178 -0.9864562 -0.9607431 -0.971854
 
--Description of the variable:
+* Description of the variable:
 Average by subject and activity of the variable "mean of 128 readings of the magnitude of the triaxial body motion acceleration in the time domain (normalized between -1 and 1)"
 
--Explanation of the schema:
+* Explanation of the schema:
 First level is the domain of the variable (frequency or time), second level indicates the component (body motion or gravitational), third level is the physics concept measured (acceleration or angular velocity), fourth level specifies it is the magnitude, fifth level is the statistic measured (mean or standard deviation).
 
 
 Variable 19: time-gravity-acceleration-magnitude-mean
 
--Class: character
+* Class: character
 
--Unique values:
+* Unique values:
 -0.1369712 -0.2546903 -0.1583387 -0.1668407 -0.09780904
 0.05167863 -0.2883235 -0.1444047 -0.1865147 -0.2587667
 -0.1511515 0.06481734 -0.1234557 0.07224191 -0.09887702
@@ -1528,18 +1596,18 @@ Variable 19: time-gravity-acceleration-magnitude-mean
 -0.96983 -0.9774355 -0.9545576 -0.9308684 -0.9567818
 -0.9482047 -0.9605178 -0.9864562 -0.9607431 -0.971854
 
--Description of the variable:
+* Description of the variable:
 Average by subject and activity of the variable "mean of 128 readings of the magnitude of the triaxial gravitational acceleration in the time domain (normalized between -1 and 1)"
 
--Explanation of the schema:
+* Explanation of the schema:
 First level is the domain of the variable (frequency or time), second level indicates the component (body motion or gravitational), third level is the physics concept measured (acceleration or angular velocity), fourth level specifies it is the magnitude, fifth level is the statistic measured (mean or standard deviation).
 
 
 Variable 20: time-body-acceleration-jerk-magnitude-mean
 
--Class: character
+* Class: character
 
--Unique values:
+* Unique values:
 -0.1414288 -0.2800093 -0.288333 -0.195117 -0.1929489
 -0.06683224 -0.4023332 -0.3772932 -0.3201293 -0.3631445
 -0.3010933 0.109451 -0.148139 0.02291997 -0.06708197
@@ -1577,18 +1645,18 @@ Variable 20: time-body-acceleration-jerk-magnitude-mean
 -0.9792328 -0.9877417 -0.9700958 -0.9633745 -0.9762344
 -0.9698438 -0.9854679 -0.9883215 -0.9846701 -0.9855293
 
--Description of the variable:
+* Description of the variable:
 Average by subject and activity of the variable "mean of 128 readings of the magnitude of the triaxial body motion acceleration jerk in the time domain (normalized between -1 and 1)"
 
--Explanation of the schema:
+* Explanation of the schema:
 First level is the domain of the variable (frequency or time), second level indicates the component (body motion or gravitational), third level is the physics concept measured (acceleration or angular velocity), fourth level specifies it is the jerk, fifth level specifies it is the magnitude, sixth level is the statistic measured (mean or standard deviation).
 
 
 Variable 21: time-body-angularvelocity-magnitude-mean
 
--Class: character
+* Class: character
 
--Unique values:
+* Unique values:
 -0.1609796 -0.4664118 -0.3559331 -0.2812078 -0.3059594
 -0.003102438 -0.4218017 -0.1372087 -0.2437111 -0.4859319
 -0.3350098 0.1000451 -0.2847756 -0.210608 -0.01209683
@@ -1626,18 +1694,18 @@ Variable 21: time-body-angularvelocity-magnitude-mean
 -0.9622849 -0.9500116 -0.9302365 -0.9071251 -0.937591
 -0.9308406 -0.9443031 -0.9807408 -0.9604474 -0.9537915
 
--Description of the variable:
+* Description of the variable:
 Average by subject and activity of the variable "mean of 128 readings of the magnitude of the triaxial angular velocity in the time domain (normalized between -1 and 1)"
 
--Explanation of the schema:
+* Explanation of the schema:
 First level is the domain of the variable (frequency or time), second level indicates the component (body motion or gravitational), third level is the physics concept measured (acceleration or angular velocity), fourth level specifies it is the magnitude, fifth level is the statistic measured (mean or standard deviation).
 
 
 Variable 22: time-body-angularvelocity-jerk-magnitude-mean
 
--Class: character
+* Class: character
 
--Unique values:
+* Unique values:
 -0.2987037 -0.5661352 -0.4445325 -0.3212905 -0.3000228
 -0.3391293 -0.6307327 -0.519895 -0.5439795 -0.6715418
 -0.5171674 -0.1647 -0.4269307 -0.4619995 0.01153054
@@ -1675,18 +1743,18 @@ Variable 22: time-body-angularvelocity-jerk-magnitude-mean
 -0.9850864 -0.9917671 -0.9850685 -0.9645248 -0.9708308
 -0.9710678 -0.9854463 -0.9930951 -0.9867495 -0.9827809
 
--Description of the variable:
+* Description of the variable:
 Average by subject and activity of the variable "mean of 128 readings of the magnitude of the triaxial angular velocity jerk in the time domain (normalized between -1 and 1)"
 
--Explanation of the schema:
+* Explanation of the schema:
 First level is the domain of the variable (frequency or time), second level indicates the component (body motion or gravitational), third level is the physics concept measured (acceleration or angular velocity), fourth level specifies it is the jerk, fifth level specifies it is the magnitude, sixth level is the statistic measured (mean or standard deviation).
 
 
 Variable 23: frequency-body-acceleration-mean-x
 
--Class: character
+* Class: character
 
--Unique values:
+* Unique values:
 -0.2027943 -0.316614 -0.2877826 -0.1879343 -0.3430484
 -0.247389 -0.3965337 -0.4214982 -0.3174409 -0.3947904
 -0.3609917 -0.02998157 -0.2734962 -0.09949286 -0.2754042
@@ -1724,18 +1792,18 @@ Variable 23: frequency-body-acceleration-mean-x
 -0.97479 -0.9767251 -0.9588021 -0.9468655 -0.9691842
 -0.9562485 -0.9747169 -0.98518 -0.9657288 -0.9758937
 
--Description of the variable:
+* Description of the variable:
 Average by subject and activity of the variable "mean of 128 readings of body motion acceleration in axis X in the frequency domain (normalized between -1 and 1)"
 
--Explanation of the schema:
+* Explanation of the schema:
 First level is the domain of the variable (frequency or time), second level indicates the component (body motion or gravitational), third level is the physics concept measured (acceleration or angular velocity), fourth level is the statistic measured (mean or standard deviation), fifth level is the axis.
 
 
 Variable 24: frequency-body-acceleration-mean-y
 
--Class: character
+* Class: character
 
--Unique values:
+* Unique values:
 0.08971273 -0.08130244 0.009460378 0.1407816 -0.06415642
 0.3169824 -0.08304784 -0.1746018 0.1113211 -0.3215007
 -0.06502676 0.1692586 0.03384658 0.1453675 -0.07243673
@@ -1773,18 +1841,18 @@ Variable 24: frequency-body-acceleration-mean-y
 -0.9599743 -0.9798009 -0.9388834 -0.9343666 -0.9543418
 -0.951266 -0.9658438 -0.9849099 -0.965596 -0.9808304
 
--Description of the variable:
+* Description of the variable:
 Average by subject and activity of the variable "mean of 128 readings of body motion acceleration in axis Y in the frequency domain (normalized between -1 and 1)"
 
--Explanation of the schema:
+* Explanation of the schema:
 First level is the domain of the variable (frequency or time), second level indicates the component (body motion or gravitational), third level is the physics concept measured (acceleration or angular velocity), fourth level is the statistic measured (mean or standard deviation), fifth level is the axis.
 
 
 Variable 25: frequency-body-acceleration-mean-z
 
--Class: character
+* Class: character
 
--Unique values:
+* Unique values:
 -0.3315601 -0.4123741 -0.4902511 -0.4985202 0.03858323
 -0.2386346 -0.6164029 -0.1773664 -0.5549421 -0.244363
 -0.3828328 -0.1044234 -0.3003091 -0.2552165 0.08140811
@@ -1822,18 +1890,18 @@ Variable 25: frequency-body-acceleration-mean-z
 -0.970322 -0.984381 -0.9675043 -0.945919 -0.9643008
 -0.9547248 -0.9662956 -0.9886069 -0.9763927 -0.9766348
 
--Description of the variable:
+* Description of the variable:
 Average by subject and activity of the variable "mean of 128 readings of body motion acceleration in axis Z in the frequency domain (normalized between -1 and 1)"
 
--Explanation of the schema:
+* Explanation of the schema:
 First level is the domain of the variable (frequency or time), second level indicates the component (body motion or gravitational), third level is the physics concept measured (acceleration or angular velocity), fourth level is the statistic measured (mean or standard deviation), fifth level is the axis.
 
 
 Variable 26: frequency-body-acceleration-jerk-mean-x
 
--Class: character
+* Class: character
 
--Unique values:
+* Unique values:
 -0.170547 -0.3046944 -0.3449548 -0.1509429 -0.3837158
 -0.3111987 -0.4532653 -0.4723606 -0.390822 -0.4414062
 -0.4234461 0.0336381 -0.200442 -0.03670471 -0.2904105
@@ -1871,18 +1939,18 @@ Variable 26: frequency-body-acceleration-jerk-mean-x
 -0.9768879 -0.9858136 -0.9785425 -0.9643041 -0.9790147
 -0.9687428 -0.9851997 -0.9864047 -0.98389 -0.9859985
 
--Description of the variable:
+* Description of the variable:
 Average by subject and activity of the variable "mean of 128 readings of body motion acceleration jerk in axis X in the frequency domain (normalized between -1 and 1)"
 
--Explanation of the schema:
+* Explanation of the schema:
 First level is the domain of the variable (frequency or time), second level indicates the component (body motion or gravitational), third level is the physics concept measured (acceleration or angular velocity), fourth level specifies it is jerk, fifth level is the statistic measured (mean or standard deviation), sixth level is the axis.
 
 
 Variable 27: frequency-body-acceleration-jerk-mean-y
 
--Class: character
+* Class: character
 
--Unique values:
+* Unique values:
 -0.03522552 -0.1405086 -0.1810556 -0.07537423 -0.1231929
 0.07968329 -0.2418017 -0.3767666 -0.06693781 -0.4542708
 -0.1942327 0.01073187 -0.1125647 0.1599956 -0.1554887
@@ -1920,18 +1988,18 @@ Variable 27: frequency-body-acceleration-jerk-mean-y
 -0.9716963 -0.9827683 -0.94397 -0.9640828 -0.9680392
 -0.9632233 -0.9803751 -0.9858653 -0.9772207 -0.9821406
 
--Description of the variable:
+* Description of the variable:
 Average by subject and activity of the variable "mean of 128 readings of body motion acceleration jerk in axis Y in the frequency domain (normalized between -1 and 1)"
 
--Explanation of the schema:
+* Explanation of the schema:
 First level is the domain of the variable (frequency or time), second level indicates the component (body motion or gravitational), third level is the physics concept measured (acceleration or angular velocity), fourth level specifies it is jerk, fifth level is the statistic measured (mean or standard deviation), sixth level is the axis.
 
 
 Variable 28: frequency-body-acceleration-jerk-mean-z
 
--Class: character
+* Class: character
 
--Unique values:
+* Unique values:
 -0.4689992 -0.5141373 -0.5904966 -0.5414386 -0.1064904
 -0.3615633 -0.6925939 -0.4158992 -0.6489053 -0.4223324
 -0.5234271 -0.1293679 -0.4057002 -0.2819734 -0.05720213
@@ -1969,18 +2037,18 @@ Variable 28: frequency-body-acceleration-jerk-mean-z
 -0.9756324 -0.9861971 -0.9753833 -0.9559092 -0.9725922
 -0.9671497 -0.9809946 -0.9891169 -0.9828762 -0.9815497
 
--Description of the variable:
+* Description of the variable:
 Average by subject and activity of the variable "mean of 128 readings of body motion acceleration jerk in axis Z in the frequency domain (normalized between -1 and 1)"
 
--Explanation of the schema:
+* Explanation of the schema:
 First level is the domain of the variable (frequency or time), second level indicates the component (body motion or gravitational), third level is the physics concept measured (acceleration or angular velocity), fourth level specifies it is jerk, fifth level is the statistic measured (mean or standard deviation), sixth level is the axis.
 
 
 Variable 29: frequency-body-angularvelocity-mean-x
 
--Class: character
+* Class: character
 
--Unique values:
+* Unique values:
 -0.3390322 -0.4378458 -0.3726687 -0.2396507 -0.3183951
 -0.1020631 -0.5147533 -0.5085959 -0.2533994 -0.5957465
 -0.4077167 0.2281424 -0.2466574 -0.1446487 -0.3376192
@@ -2018,18 +2086,18 @@ Variable 29: frequency-body-angularvelocity-mean-x
 -0.9717891 -0.9864311 -0.9672037 -0.9302979 -0.9537939
 -0.9566539 -0.9694635 -0.9924369 -0.9826194 -0.9765706
 
--Description of the variable:
+* Description of the variable:
 Average by subject and activity of the variable "mean of 128 readings of body motion angular velocity in axis X in the frequency domain (normalized between -1 and 1)"
 
--Explanation of the schema:
+* Explanation of the schema:
 First level is the domain of the variable (frequency or time), second level indicates the component (body motion or gravitational), third level is the physics concept measured (acceleration or angular velocity), fourth level is the statistic measured (mean or standard deviation), fifth level is the axis.
 
 
 Variable 30: frequency-body-angularvelocity-mean-y
 
--Class: character
+* Class: character
 
--Unique values:
+* Unique values:
 -0.1030594 -0.5615263 -0.5139517 -0.3413784 -0.1519667
 -0.2597297 -0.5931074 -0.2158949 -0.5354221 -0.6197319
 -0.4901663 -0.09735498 -0.3717441 -0.5011769 0.1955695
@@ -2067,18 +2135,18 @@ Variable 30: frequency-body-angularvelocity-mean-y
 -0.9681703 -0.9833216 -0.9721878 -0.9345797 -0.95467
 -0.9525617 -0.9686897 -0.9856112 -0.97312 -0.966112
 
--Description of the variable:
+* Description of the variable:
 Average by subject and activity of the variable "mean of 128 readings of body motion angular velocity in axis Y in the frequency domain (normalized between -1 and 1)"
 
--Explanation of the schema:
+* Explanation of the schema:
 First level is the domain of the variable (frequency or time), second level indicates the component (body motion or gravitational), third level is the physics concept measured (acceleration or angular velocity), fourth level is the statistic measured (mean or standard deviation), fifth level is the axis.
 
 
 Variable 31: frequency-body-angularvelocity-mean-z
 
--Class: character
+* Class: character
 
--Unique values:
+* Unique values:
 -0.2559409 -0.4181262 -0.213127 -0.2035755 -0.3667336
 -0.1329022 -0.3982933 -0.2129258 -0.4614641 -0.4328853
 -0.3988092 -0.01050471 -0.2832625 -0.08350118 -0.1949704
@@ -2116,18 +2184,18 @@ Variable 31: frequency-body-angularvelocity-mean-z
 -0.9675774 -0.9626719 -0.9614793 -0.959815 -0.9697558
 -0.9456732 -0.9691269 -0.9849993 -0.9722786 -0.981093
 
--Description of the variable:
+* Description of the variable:
 Average by subject and activity of the variable "mean of 128 readings of body motion angular velocity in axis Z in the frequency domain (normalized between -1 and 1)"
 
--Explanation of the schema:
+* Explanation of the schema:
 First level is the domain of the variable (frequency or time), second level indicates the component (body motion or gravitational), third level is the physics concept measured (acceleration or angular velocity), fourth level is the statistic measured (mean or standard deviation), fifth level is the axis.
 
 
 Variable 32: frequency-body-acceleration-magnitude-mean
 
--Class: character
+* Class: character
 
--Unique values:
+* Unique values:
 -0.1286235 -0.2900315 -0.3049925 -0.2013866 -0.1512436
 -0.09521728 -0.4585141 -0.3735168 -0.2751562 -0.4104632
 -0.42938 0.03222723 -0.2512664 -0.0241585 -0.09426063
@@ -2165,18 +2233,18 @@ Variable 32: frequency-body-acceleration-magnitude-mean
 -0.9628408 -0.9751102 -0.9393897 -0.9266043 -0.9508481
 -0.9438674 -0.9595355 -0.9867884 -0.9528271 -0.9731711
 
--Description of the variable:
+* Description of the variable:
 Average by subject and activity of the variable "mean of 128 readings of the magnitude of the triaxial body motion acceleration in the frequency domain (normalized between -1 and 1)"
 
--Explanation of the schema:
+* Explanation of the schema:
 First level is the domain of the variable (frequency or time), second level indicates the component (body motion or gravitational), third level is the physics concept measured (acceleration or angular velocity), fourth level specifies it is the magnitude, fifth level is the statistic measured (mean or standard deviation)
 
 
 Variable 33: frequency-body-acceleration-jerk-magnitude-mean
 
--Class: character
+* Class: character
 
--Unique values:
+* Unique values:
 -0.0571194 -0.1867645 -0.2694817 -0.05540142 -0.03841873
 -0.1238344 -0.3951161 -0.4315915 -0.289754 -0.3782785
 -0.3359389 0.07301799 -0.1440099 0.06597273 -0.01807057
@@ -2214,18 +2282,18 @@ Variable 33: frequency-body-acceleration-jerk-magnitude-mean
 -0.9699493 -0.9853741 -0.9622871 -0.9543206 -0.9685611
 -0.9624484 -0.9807544 -0.9885484 -0.9796955 -0.9831081
 
--Description of the variable:
+* Description of the variable:
 Average by subject and activity of the variable "mean of 128 readings of the magnitude of the triaxial body motion acceleration jerk in the frequency domain (normalized between -1 and 1)"
 
--Explanation of the schema:
+* Explanation of the schema:
 First level is the domain of the variable (frequency or time), second level indicates the component (body motion or gravitational), third level is the physics concept measured (acceleration or angular velocity), fourth level specifies it is the jerk, fifth level specifies it is the magnitude, sixth level is the statistic measured (mean or standard deviation)
 
 
 Variable 34: frequency-body-angularvelocity-magnitude-mean
 
--Class: character
+* Class: character
 
--Unique values:
+* Unique values:
 -0.1992526 -0.5697558 -0.4842628 -0.3296811 -0.1929098
 -0.3012418 -0.6102226 -0.3113864 -0.4891664 -0.6692285
 -0.5186181 -0.09524605 -0.4095161 -0.4383787 0.1850782
@@ -2263,18 +2331,18 @@ Variable 34: frequency-body-angularvelocity-magnitude-mean
 -0.9620012 -0.972113 -0.9615567 -0.9186053 -0.9376926
 -0.945497 -0.9576816 -0.9843291 -0.9698322 -0.9640014
 
--Description of the variable:
+* Description of the variable:
 Average by subject and activity of the variable "mean of 128 readings of the magnitude of the triaxial body motion angular velocity in the frequency domain (normalized between -1 and 1)"
 
--Explanation of the schema:
+* Explanation of the schema:
 First level is the domain of the variable (frequency or time), second level indicates the component (body motion or gravitational), third level is the physics concept measured (acceleration or angular velocity), fourth level specifies it is the magnitude, fifth level is the statistic measured (mean or standard deviation)
 
 
 Variable 35: frequency-body-angularvelocity-jerk-magnitude-mean
 
--Class: character
+* Class: character
 
--Unique values:
+* Unique values:
 -0.3193086 -0.6077516 -0.5480536 -0.3665005 -0.1553399
 -0.4730262 -0.7519145 -0.5910369 -0.6450752 -0.7206823
 -0.5827119 -0.2624428 -0.4995972 -0.5539461 0.1466186
@@ -2312,18 +2380,18 @@ Variable 35: frequency-body-angularvelocity-jerk-magnitude-mean
 -0.9778213 -0.9902487 -0.9836091 -0.9558063 -0.9609768
 -0.9639496 -0.9781508 -0.991901 -0.9811198 -0.9785967
 
--Description of the variable:
+* Description of the variable:
 Average by subject and activity of the variable "mean of 128 readings of the magnitude of the triaxial body motion angular velocity jerk in the frequency domain (normalized between -1 and 1)"
 
--Explanation of the schema:
+* Explanation of the schema:
 First level is the domain of the variable (frequency or time), second level indicates the component (body motion or gravitational), third level is the physics concept measured (acceleration or angular velocity), fourth level specifies it is the jerk, fifth level specifies it is the magnitude, sixth level is the statistic measured (mean or standard deviation)
 
 
 Variable 36: time-body-acceleration-standarddeviation-x
 
--Class: character
+* Class: character
 
--Unique values:
+* Unique values:
 -0.2837403 -0.3603567 -0.2940985 -0.2965387 -0.3272432
 -0.1736057 -0.4228421 -0.4026391 -0.3279618 -0.4046925
 -0.3195002 -0.04890494 -0.2978148 -0.008659219 -0.3135218
@@ -2361,18 +2429,18 @@ Variable 36: time-body-acceleration-standarddeviation-x
 -0.9763625 -0.9740595 -0.9541937 -0.9423331 -0.9682837
 -0.9553187 -0.968892 -0.9845276 -0.9622491 -0.967984
 
--Description of the variable:
+* Description of the variable:
 Standard deviation by subject and activity of the variable "mean of 128 readings of body motion acceleration in axis X in the time domain (normalized between -1 and 1)"
 
--Explanation of the schema:
+* Explanation of the schema:
 First level is the domain of the variable (frequency or time), second level indicates the component (body motion or gravitational), third level is the physics concept measured (acceleration or angular velocity), fourth level is the statistic measured (mean or standard deviation), fifth level is the axis.
 
 
 Variable 37: time-body-acceleration-standarddeviation-y
 
--Class: character
+* Class: character
 
--Unique values:
+* Unique values:
 0.1144613 -0.06991407 0.0767484 0.1642139 -0.07726186
 0.3807821 -0.05221208 -0.05361267 0.1389129 -0.3145698
 -0.01757979 0.1818016 0.05408805 0.1003842 -0.1190206
@@ -2410,18 +2478,18 @@ Variable 37: time-body-acceleration-standarddeviation-y
 -0.9542018 -0.9802774 -0.941714 -0.9162928 -0.9464543
 -0.949072 -0.9509479 -0.9861609 -0.9640982 -0.9831265
 
--Description of the variable:
+* Description of the variable:
 Standard deviation by subject and activity of the variable "mean of 128 readings of body motion acceleration in axis Y in the time domain (normalized between -1 and 1)"
 
--Explanation of the schema:
+* Explanation of the schema:
 First level is the domain of the variable (frequency or time), second level indicates the component (body motion or gravitational), third level is the physics concept measured (acceleration or angular velocity), fourth level is the statistic measured (mean or standard deviation), fifth level is the axis.
 
 
 Variable 38: time-body-acceleration-standarddeviation-z
 
--Class: character
+* Class: character
 
--Unique values:
+* Unique values:
 -0.2600279 -0.387412 -0.4570214 -0.5043242 0.1596313
 -0.1420885 -0.5306263 0.0518841 -0.5189326 -0.1597998
 -0.2658245 -0.1394779 -0.1686887 -0.213352 0.1642207
@@ -2459,18 +2527,18 @@ Variable 38: time-body-acceleration-standarddeviation-z
 -0.9670442 -0.9842333 -0.9626673 -0.9407073 -0.9594715
 -0.9483338 -0.950393 -0.9876587 -0.972572 -0.973567
 
--Description of the variable:
+* Description of the variable:
 Standard deviation by subject and activity of the variable "mean of 128 readings of body motion acceleration in axis Z in the time domain (normalized between -1 and 1)"
 
--Explanation of the schema:
+* Explanation of the schema:
 First level is the domain of the variable (frequency or time), second level indicates the component (body motion or gravitational), third level is the physics concept measured (acceleration or angular velocity), fourth level is the statistic measured (mean or standard deviation), fifth level is the axis.
 
 
 Variable 39: time-gravity-acceleration-standarddeviation-x
 
--Class: character
+* Class: character
 
--Unique values:
+* Unique values:
 -0.9766096 -0.9777716 -0.9793484 -0.9777799 -0.9798513
 -0.9747521 -0.981101 -0.9748169 -0.9783973 -0.9824696
 -0.9809834 -0.9698615 -0.9695764 -0.9696434 -0.9772309
@@ -2508,18 +2576,18 @@ Variable 39: time-gravity-acceleration-standarddeviation-x
 -0.9795639 -0.9590144 -0.9212 -0.9218211 -0.9545319
 -0.9364583 -0.9578752 -0.982716 -0.9286742 -0.9604122
 
--Description of the variable:
+* Description of the variable:
 Standard deviation by subject and activity of the variable "mean of 128 readings of gravitational acceleration in axis X in the time domain (normalized between -1 and 1)"
 
--Explanation of the schema:
+* Explanation of the schema:
 First level is the domain of the variable (frequency or time), second level indicates the component (body motion or gravitational), third level is the physics concept measured (acceleration or angular velocity), fourth level is the statistic measured (mean or standard deviation), fifth level is the axis.
 
 
 Variable 40: time-gravity-acceleration-standarddeviation-y
 
--Class: character
+* Class: character
 
--Unique values:
+* Unique values:
 -0.971306 -0.9623556 -0.9615855 -0.9642486 -0.9694042
 -0.9567815 -0.9662406 -0.9544559 -0.9710565 -0.9737848
 -0.9686132 -0.9586512 -0.9641445 -0.9636393 -0.9665507
@@ -2557,18 +2625,18 @@ Variable 40: time-gravity-acceleration-standarddeviation-y
 -0.9889307 -0.9882119 -0.9698166 -0.9699945 -0.9667012
 -0.9743965 -0.9759481 -0.9940935 -0.9760185 -0.9934544
 
--Description of the variable:
+* Description of the variable:
 Standard deviation by subject and activity of the variable "mean of 128 readings of gravitational acceleration in axis Y in the time domain (normalized between -1 and 1)"
 
--Explanation of the schema:
+* Explanation of the schema:
 First level is the domain of the variable (frequency or time), second level indicates the component (body motion or gravitational), third level is the physics concept measured (acceleration or angular velocity), fourth level is the statistic measured (mean or standard deviation), fifth level is the axis.
 
 
 Variable 41: time-gravity-acceleration-standarddeviation-z
 
--Class: character
+* Class: character
 
--Unique values:
+* Unique values:
 -0.9477172 -0.9520918 -0.9645808 -0.957205 -0.9521598
 -0.9566401 -0.9608527 -0.947517 -0.9580588 -0.9613873
 -0.9569032 -0.9291879 -0.9749394 -0.9551478 -0.9329813
@@ -2606,18 +2674,18 @@ Variable 41: time-gravity-acceleration-standarddeviation-z
 -0.9832745 -0.9842304 -0.9761766 -0.9712047 -0.9630456
 -0.959644 -0.9598929 -0.9909572 -0.9765186 -0.9792397
 
--Description of the variable:
+* Description of the variable:
 Standard deviation by subject and activity of the variable "mean of 128 readings of gravitational acceleration in axis Z in the time domain (normalized between -1 and 1)"
 
--Explanation of the schema:
+* Explanation of the schema:
 First level is the domain of the variable (frequency or time), second level indicates the component (body motion or gravitational), third level is the physics concept measured (acceleration or angular velocity), fourth level is the statistic measured (mean or standard deviation), fifth level is the axis.
 
 
 Variable 42: time-body-acceleration-jerk-standarddeviation-x
 
--Class: character
+* Class: character
 
--Unique values:
+* Unique values:
 -0.1136156 -0.2686796 -0.302891 -0.1327848 -0.3460262
 -0.2586886 -0.4285163 -0.454497 -0.3732176 -0.3962237
 -0.3554926 0.1103067 -0.1148889 0.03587871 -0.2293281
@@ -2655,18 +2723,18 @@ Variable 42: time-body-acceleration-jerk-standarddeviation-x
 -0.9774638 -0.9858722 -0.9783028 -0.9647405 -0.9780075
 -0.9692763 -0.98542 -0.9859211 -0.9842707 -0.9863654
 
--Description of the variable:
+* Description of the variable:
 Standard deviation by subject and activity of the variable "mean of 128 readings of body motion acceleration jerk in axis X in the time domain (normalized between -1 and 1)"
 
--Explanation of the schema:
+* Explanation of the schema:
 First level is the domain of the variable (frequency or time), second level indicates the component (body motion or gravitational), third level is the physics concept measured (acceleration or angular velocity), fourth level specifies it is jerk, fifth level is the statistic measured (mean or standard deviation), sixth level is the axis.
 
 
 Variable 43: time-body-acceleration-jerk-standarddeviation-y
 
--Class: character
+* Class: character
 
--Unique values:
+* Unique values:
 0.0670025 -0.04496196 -0.09103974 0.008088974 -0.05474489
 0.2339875 -0.1814192 -0.3443396 -0.03192655 -0.4255639
 -0.0935385 0.08092712 -0.03471439 0.2255423 -0.08050173
@@ -2704,18 +2772,18 @@ Variable 43: time-body-acceleration-jerk-standarddeviation-y
 -0.9710498 -0.9831725 -0.9422095 -0.9639967 -0.9669308
 -0.9626395 -0.9801523 -0.9855543 -0.9770026 -0.9824305
 
--Description of the variable:
+* Description of the variable:
 Standard deviation by subject and activity of the variable "mean of 128 readings of body motion acceleration jerk in axis Y in the time domain (normalized between -1 and 1)"
 
--Explanation of the schema:
+* Explanation of the schema:
 First level is the domain of the variable (frequency or time), second level indicates the component (body motion or gravitational), third level is the physics concept measured (acceleration or angular velocity), fourth level specifies it is jerk, fifth level is the statistic measured (mean or standard deviation), sixth level is the axis.
 
 
 Variable 44: time-body-acceleration-jerk-standarddeviation-z
 
--Class: character
+* Class: character
 
--Unique values:
+* Unique values:
 -0.5026998 -0.5294861 -0.6128953 -0.5757775 -0.1494885
 -0.3832006 -0.7206547 -0.4727911 -0.6862684 -0.4402582
 -0.5343033 -0.1793905 -0.4251426 -0.3131559 -0.02931151
@@ -2753,18 +2821,18 @@ Variable 44: time-body-acceleration-jerk-standarddeviation-z
 -0.9795179 -0.988442 -0.978512 -0.9585625 -0.9762567
 -0.9706293 -0.9830707 -0.9906602 -0.9849892 -0.9830874
 
--Description of the variable:
+* Description of the variable:
 Standard deviation by subject and activity of the variable "mean of 128 readings of body motion acceleration jerk in axis Z in the time domain (normalized between -1 and 1)"
 
--Explanation of the schema:
+* Explanation of the schema:
 First level is the domain of the variable (frequency or time), second level indicates the component (body motion or gravitational), third level is the physics concept measured (acceleration or angular velocity), fourth level specifies it is jerk, fifth level is the statistic measured (mean or standard deviation), sixth level is the axis.
 
 
 Variable 45: time-body-angularvelocity-standarddeviation-x
 
--Class: character
+* Class: character
 
--Unique values:
+* Unique values:
 -0.4735355 -0.5718696 -0.4908775 -0.446021 -0.5033135
 -0.1992097 -0.5963469 -0.6003882 -0.3296246 -0.6541718
 -0.4798135 -0.0264358 -0.4322329 -0.3185379 -0.4943226
@@ -2802,18 +2870,18 @@ Variable 45: time-body-angularvelocity-standarddeviation-x
 -0.9736628 -0.9882752 -0.9731024 -0.9422465 -0.9617132
 -0.9660907 -0.9721435 -0.9928726 -0.9844774 -0.9826517
 
--Description of the variable:
+* Description of the variable:
 Standard deviation by subject and activity of the variable "mean of 128 readings of body motion angular velocity in axis X in the time domain (normalized between -1 and 1)"
 
--Explanation of the schema:
+* Explanation of the schema:
 First level is the domain of the variable (frequency or time), second level indicates the component (body motion or gravitational), third level is the physics concept measured (acceleration or angular velocity), fourth level is the statistic measured (mean or standard deviation), fifth level is the axis.
 
 
 Variable 46: time-body-angularvelocity-standarddeviation-y
 
--Class: character
+* Class: character
 
--Unique values:
+* Unique values:
 -0.05460777 -0.5637933 -0.504622 -0.3317023 -0.2310983
 -0.2119973 -0.4996253 -0.01483926 -0.420865 -0.6125936
 -0.4549329 -0.1144061 -0.3978923 -0.4863221 0.2594572
@@ -2851,18 +2919,18 @@ Variable 46: time-body-angularvelocity-standarddeviation-y
 -0.9660417 -0.9822916 -0.9611093 -0.9266185 -0.9536602
 -0.9538739 -0.9627046 -0.9842029 -0.9729419 -0.9602996
 
--Description of the variable:
+* Description of the variable:
 Standard deviation by subject and activity of the variable "mean of 128 readings of body motion angular velocity in axis Y in the time domain (normalized between -1 and 1)"
 
--Explanation of the schema:
+* Explanation of the schema:
 First level is the domain of the variable (frequency or time), second level indicates the component (body motion or gravitational), third level is the physics concept measured (acceleration or angular velocity), fourth level is the statistic measured (mean or standard deviation), fifth level is the axis.
 
 
 Variable 47: time-body-angularvelocity-standarddeviation-z
 
--Class: character
+* Class: character
 
--Unique values:
+* Unique values:
 -0.3442666 -0.4766964 -0.3187006 -0.3831393 -0.3960135
 -0.07544478 -0.4341782 -0.1260908 -0.4865327 -0.3654895
 -0.3860444 -0.104203 -0.3118756 -0.1514395 -0.2096349
@@ -2900,18 +2968,18 @@ Variable 47: time-body-angularvelocity-standarddeviation-z
 -0.9688892 -0.9603066 -0.9620738 -0.9615954 -0.9719406
 -0.9501574 -0.9673505 -0.9851084 -0.9724099 -0.9817014
 
--Description of the variable:
+* Description of the variable:
 Standard deviation by subject and activity of the variable "mean of 128 readings of body motion angular velocity in axis Z in the time domain (normalized between -1 and 1)"
 
--Explanation of the schema:
+* Explanation of the schema:
 First level is the domain of the variable (frequency or time), second level indicates the component (body motion or gravitational), third level is the physics concept measured (acceleration or angular velocity), fourth level is the statistic measured (mean or standard deviation), fifth level is the axis.
 
 
 Variable 48: time-body-angularvelocity-jerk-standarddeviation-x
 
--Class: character
+* Class: character
 
--Unique values:
+* Unique values:
 -0.2074219 -0.385923 -0.3576814 -0.1826009 -0.2116673
 -0.2460828 -0.5416164 -0.5717599 -0.283768 -0.6758897
 -0.4312961 0.08011865 -0.2389083 -0.2266564 -0.3639694
@@ -2949,18 +3017,18 @@ Variable 48: time-body-angularvelocity-jerk-standarddeviation-x
 -0.9837758 -0.9932358 -0.9751032 -0.945329 -0.9659006
 -0.9671982 -0.9814047 -0.9961044 -0.9892836 -0.9798657
 
--Description of the variable:
+* Description of the variable:
 Standard deviation by subject and activity of the variable "mean of 128 readings of body motion angular velocity jerk in axis X in the time domain (normalized between -1 and 1)"
 
--Explanation of the schema:
+* Explanation of the schema:
 First level is the domain of the variable (frequency or time), second level indicates the component (body motion or gravitational), third level is the physics concept measured (acceleration or angular velocity), fourth level specifies it is jerk, fifth level is the statistic measured (mean or standard deviation), sixth level is the axis.
 
 
 Variable 49: time-body-angularvelocity-jerk-standarddeviation-y
 
--Class: character
+* Class: character
 
--Unique values:
+* Unique values:
 -0.3044685 -0.639088 -0.5714381 -0.4163902 -0.1741364
 -0.4280557 -0.7379938 -0.5367377 -0.7024029 -0.7122378
 -0.5602035 -0.2915948 -0.4828543 -0.6518755 0.2959459
@@ -2998,18 +3066,18 @@ Variable 49: time-body-angularvelocity-jerk-standarddeviation-y
 -0.9803571 -0.9895675 -0.9868556 -0.9621702 -0.966621
 -0.9659004 -0.9788547 -0.9905476 -0.9815401 -0.9780913
 
--Description of the variable:
+* Description of the variable:
 Standard deviation by subject and activity of the variable "mean of 128 readings of body motion angular velocity jerk in axis Y in the time domain (normalized between -1 and 1)"
 
--Explanation of the schema:
+* Explanation of the schema:
 First level is the domain of the variable (frequency or time), second level indicates the component (body motion or gravitational), third level is the physics concept measured (acceleration or angular velocity), fourth level specifies it is jerk, fifth level is the statistic measured (mean or standard deviation), sixth level is the axis.
 
 
 Variable 50: time-body-angularvelocity-jerk-standarddeviation-z
 
--Class: character
+* Class: character
 
--Unique values:
+* Unique values:
 -0.4042555 -0.5366641 -0.1576825 -0.1666844 -0.458303
 -0.388447 -0.5510799 -0.4971877 -0.5916686 -0.5712648
 -0.5244229 -0.2134941 -0.4949277 -0.2342782 -0.3744568
@@ -3047,18 +3115,18 @@ Variable 50: time-body-angularvelocity-jerk-standarddeviation-z
 -0.9807689 -0.9880358 -0.9839654 -0.9770762 -0.9839493
 -0.9699539 -0.9898015 -0.9925481 -0.9866705 -0.9923816
 
--Description of the variable:
+* Description of the variable:
 Standard deviation by subject and activity of the variable "mean of 128 readings of body motion angular velocity jerk in axis Z in the time domain (normalized between -1 and 1)"
 
--Explanation of the schema:
+* Explanation of the schema:
 First level is the domain of the variable (frequency or time), second level indicates the component (body motion or gravitational), third level is the physics concept measured (acceleration or angular velocity), fourth level specifies it is jerk, fifth level is the statistic measured (mean or standard deviation), sixth level is the axis.
 
 
 Variable 51: time-body-acceleration-magnitude-standarddeviation
 
--Class: character
+* Class: character
 
--Unique values:
+* Unique values:
 -0.2196886 -0.3284289 -0.3771787 -0.2667342 -0.1985547
 -0.1804073 -0.4877359 -0.3638056 -0.3238783 -0.4718093
 -0.4618379 -0.09939272 -0.2997098 -0.1615918 -0.2099894
@@ -3096,18 +3164,18 @@ Variable 51: time-body-acceleration-magnitude-standarddeviation
 -0.9601679 -0.9728739 -0.9312922 -0.9151268 -0.9403017
 -0.9365427 -0.9479447 -0.9864645 -0.9394894 -0.9693548
 
--Description of the variable:
+* Description of the variable:
 Standard deviation by subject and activity of the variable "mean of 128 readings of the magnitude of the triaxial body motion acceleration in the time domain (normalized between -1 and 1)"
 
--Explanation of the schema:
+* Explanation of the schema:
 First level is the domain of the variable (frequency or time), second level indicates the component (body motion or gravitational), third level is the physics concept measured (acceleration or angular velocity), fourth level specifies it is the magnitude, fifth level is the statistic measured (mean or standard deviation).
 
 
 Variable 52: time-gravity-acceleration-magnitude-standarddeviation
 
--Class: character
+* Class: character
 
--Unique values:
+* Unique values:
 -0.2196886 -0.3284289 -0.3771787 -0.2667342 -0.1985547
 -0.1804073 -0.4877359 -0.3638056 -0.3238783 -0.4718093
 -0.4618379 -0.09939272 -0.2997098 -0.1615918 -0.2099894
@@ -3145,18 +3213,18 @@ Variable 52: time-gravity-acceleration-magnitude-standarddeviation
 -0.9601679 -0.9728739 -0.9312922 -0.9151268 -0.9403017
 -0.9365427 -0.9479447 -0.9864645 -0.9394894 -0.9693548
 
--Description of the variable:
+* Description of the variable:
 Standard deviation by subject and activity of the variable "mean of 128 readings of the magnitude of the triaxial gravitational acceleration in the time domain (normalized between -1 and 1)"
 
--Explanation of the schema:
+* Explanation of the schema:
 First level is the domain of the variable (frequency or time), second level indicates the component (body motion or gravitational), third level is the physics concept measured (acceleration or angular velocity), fourth level specifies it is the magnitude, fifth level is the statistic measured (mean or standard deviation).
 
 
 Variable 53: time-body-acceleration-jerk-magnitude-standarddeviation
 
--Class: character
+* Class: character
 
--Unique values:
+* Unique values:
 -0.07447175 -0.1399164 -0.2822423 -0.07060296 -0.02755733
 -0.1845711 -0.4031413 -0.4397469 -0.3100714 -0.4033866
 -0.2756728 0.03565588 -0.0838488 0.1115329 -0.02681944
@@ -3194,18 +3262,18 @@ Variable 53: time-body-acceleration-jerk-magnitude-standarddeviation
 -0.9696423 -0.9855181 -0.9607864 -0.9550268 -0.967557
 -0.9625809 -0.9800662 -0.9895263 -0.9801617 -0.9836059
 
--Description of the variable:
+* Description of the variable:
 Standard deviation by subject and activity of the variable "mean of 128 readings of the magnitude of the triaxial body motion acceleration jerk in the time domain (normalized between -1 and 1)"
 
--Explanation of the schema:
+* Explanation of the schema:
 First level is the domain of the variable (frequency or time), second level indicates the component (body motion or gravitational), third level is the physics concept measured (acceleration or angular velocity), fourth level specifies it is the jerk, fifth level specifies it is the magnitude, sixth level is the statistic measured (mean or standard deviation).
 
 
 Variable 54: time-body-angularvelocity-magnitude-standarddeviation
 
--Class: character
+* Class: character
 
--Unique values:
+* Unique values:
 -0.1869784 -0.5615107 -0.4921768 -0.3656029 -0.1982832
 -0.2387467 -0.5583628 -0.2014019 -0.4257985 -0.6650784
 -0.5224948 -0.02184632 -0.4083044 -0.3907757 0.1633465
@@ -3243,18 +3311,18 @@ Variable 54: time-body-angularvelocity-magnitude-standarddeviation
 -0.9512644 -0.9611641 -0.9470318 -0.8985579 -0.9274712
 -0.9357257 -0.9446875 -0.9805609 -0.9621536 -0.9578299
 
--Description of the variable:
+* Description of the variable:
 Standard deviation by subject and activity of the variable "mean of 128 readings of the magnitude of the triaxial angular velocity in the time domain (normalized between -1 and 1)"
 
--Explanation of the schema:
+* Explanation of the schema:
 First level is the domain of the variable (frequency or time), second level indicates the component (body motion or gravitational), third level is the physics concept measured (acceleration or angular velocity), fourth level specifies it is the magnitude, fifth level is the statistic measured (mean or standard deviation).
 
 
 Variable 55: time-body-angularvelocity-jerk-magnitude-standarddeviation
 
--Class: character
+* Class: character
 
--Unique values:
+* Unique values:
 -0.3253249 -0.5673716 -0.4891997 -0.3647083 -0.09534012
 -0.5029573 -0.7536714 -0.6061033 -0.637786 -0.7228084
 -0.5397085 -0.2714875 -0.45037 -0.5031063 0.2501732
@@ -3292,18 +3360,18 @@ Variable 55: time-body-angularvelocity-jerk-magnitude-standarddeviation
 -0.9761771 -0.9897181 -0.9826982 -0.9528016 -0.9596329
 -0.962012 -0.9751133 -0.9921531 -0.9810793 -0.9786591
 
--Description of the variable:
+* Description of the variable:
 Standard deviation by subject and activity of the variable "mean of 128 readings of the magnitude of the triaxial angular velocity jerk in the time domain (normalized between -1 and 1)"
 
--Explanation of the schema:
+* Explanation of the schema:
 First level is the domain of the variable (frequency or time), second level indicates the component (body motion or gravitational), third level is the physics concept measured (acceleration or angular velocity), fourth level specifies it is the jerk, fifth level specifies it is the magnitude, sixth level is the statistic measured (mean or standard deviation).
 
 
 Variable 56: frequency-body-acceleration-standarddeviation-x
 
--Class: character
+* Class: character
 
--Unique values:
+* Unique values:
 -0.3191347 -0.3792768 -0.2975174 -0.3452277 -0.3220349
 -0.1483869 -0.4337033 -0.39586 -0.3325206 -0.4090705
 -0.3048063 -0.05788208 -0.3085472 0.02439582 -0.3298073
@@ -3341,18 +3409,18 @@ Variable 56: frequency-body-acceleration-standarddeviation-x
 -0.9770453 -0.9732465 -0.9524649 -0.940981 -0.967968
 -0.9552076 -0.9669601 -0.9843219 -0.9609979 -0.9651671
 
--Description of the variable:
+* Description of the variable:
 Standard deviation by subject and activity of the variable "mean of 128 readings of body motion acceleration in axis X in the frequency domain (normalized between -1 and 1)"
 
--Explanation of the schema:
+* Explanation of the schema:
 First level is the domain of the variable (frequency or time), second level indicates the component (body motion or gravitational), third level is the physics concept measured (acceleration or angular velocity), fourth level is the statistic measured (mean or standard deviation), fifth level is the axis.
 
 
 Variable 57: frequency-body-acceleration-standarddeviation-y
 
--Class: character
+* Class: character
 
--Unique values:
+* Unique values:
 0.05604001 -0.1240308 0.04260268 0.1016996 -0.1437218
 0.3248449 -0.09660683 -0.054271 0.08056462 -0.3543707
 -0.05561379 0.1126151 -0.002562942 0.003868411 -0.2025241
@@ -3390,18 +3458,18 @@ Variable 57: frequency-body-acceleration-standarddeviation-y
 -0.9535584 -0.9810251 -0.946381 -0.9128368 -0.9462291
 -0.95064 -0.9474623 -0.9867465 -0.964961 -0.9845718
 
--Description of the variable:
+* Description of the variable:
 Standard deviation by subject and activity of the variable "mean of 128 readings of body motion acceleration in axis Y in the frequency domain (normalized between -1 and 1)"
 
--Explanation of the schema:
+* Explanation of the schema:
 First level is the domain of the variable (frequency or time), second level indicates the component (body motion or gravitational), third level is the physics concept measured (acceleration or angular velocity), fourth level is the statistic measured (mean or standard deviation), fifth level is the axis.
 
 
 Variable 58: frequency-body-acceleration-standarddeviation-z
 
--Class: character
+* Class: character
 
--Unique values:
+* Unique values:
 -0.2796868 -0.4229985 -0.48306 -0.5504746 0.1333168
 -0.1584373 -0.5230934 0.08548921 -0.5370264 -0.1805013
 -0.2623916 -0.2338723 -0.164961 -0.2536436 0.1161434
@@ -3439,18 +3507,18 @@ Variable 58: frequency-body-acceleration-standarddeviation-z
 -0.9671882 -0.9847922 -0.9621545 -0.9419712 -0.9598137
 -0.9483808 -0.9458521 -0.9872248 -0.9719013 -0.9730578
 
--Description of the variable:
+* Description of the variable:
 Standard deviation by subject and activity of the variable "mean of 128 readings of body motion acceleration in axis Z in the frequency domain (normalized between -1 and 1)"
 
--Explanation of the schema:
+* Explanation of the schema:
 First level is the domain of the variable (frequency or time), second level indicates the component (body motion or gravitational), third level is the physics concept measured (acceleration or angular velocity), fourth level is the statistic measured (mean or standard deviation), fifth level is the axis.
 
 
 Variable 59: frequency-body-acceleration-jerk-standarddeviation-x
 
--Class: character
+* Class: character
 
--Unique values:
+* Unique values:
 -0.1335866 -0.2965966 -0.3213903 -0.1926947 -0.3653148
 -0.2714482 -0.453943 -0.4847977 -0.4115001 -0.4028841
 -0.3438661 0.09083665 -0.1074128 0.01800478 -0.235173
@@ -3488,18 +3556,18 @@ Variable 59: frequency-body-acceleration-jerk-standarddeviation-x
 -0.9803507 -0.9872503 -0.9800793 -0.9686013 -0.9789044
 -0.97282 -0.9870782 -0.9866412 -0.9862139 -0.9881405
 
--Description of the variable:
+* Description of the variable:
 Standard deviation by subject and activity of the variable "mean of 128 readings of body motion acceleration jerk in axis X in the frequency domain (normalized between -1 and 1)"
 
--Explanation of the schema:
+* Explanation of the schema:
 First level is the domain of the variable (frequency or time), second level indicates the component (body motion or gravitational), third level is the physics concept measured (acceleration or angular velocity), fourth level specifies it is jerk, fifth level is the statistic measured (mean or standard deviation), sixth level is the axis.
 
 
 Variable 60: frequency-body-acceleration-jerk-standarddeviation-y
 
--Class: character
+* Class: character
 
--Unique values:
+* Unique values:
 0.1067399 -0.005614988 -0.05452136 0.03144507 -0.04319175
 0.3158835 -0.1701774 -0.3535269 -0.06068391 -0.4336127
 -0.04703794 0.08540107 -0.01484152 0.2134236 -0.06097531
@@ -3537,18 +3605,18 @@ Variable 60: frequency-body-acceleration-jerk-standarddeviation-y
 -0.9724342 -0.9849874 -0.9443669 -0.9666341 -0.9681207
 -0.9647037 -0.9813943 -0.9862107 -0.9784514 -0.9841245
 
--Description of the variable:
+* Description of the variable:
 Standard deviation by subject and activity of the variable "mean of 128 readings of body motion acceleration jerk in axis Y in the frequency domain (normalized between -1 and 1)"
 
--Explanation of the schema:
+* Explanation of the schema:
 First level is the domain of the variable (frequency or time), second level indicates the component (body motion or gravitational), third level is the physics concept measured (acceleration or angular velocity), fourth level specifies it is jerk, fifth level is the statistic measured (mean or standard deviation), sixth level is the axis.
 
 
 Variable 61: frequency-body-acceleration-jerk-standarddeviation-z
 
--Class: character
+* Class: character
 
--Unique values:
+* Unique values:
 -0.5347134 -0.5435291 -0.63343 -0.6086244 -0.1907515
 -0.4044825 -0.7475646 -0.5288895 -0.7230511 -0.4566363
 -0.543873 -0.2278298 -0.4435634 -0.3431956 -0.006236475
@@ -3586,18 +3654,18 @@ Variable 61: frequency-body-acceleration-jerk-standarddeviation-z
 -0.9822816 -0.9893454 -0.9802612 -0.9597147 -0.9785823
 -0.9727138 -0.98367 -0.9907448 -0.9857078 -0.9831856
 
--Description of the variable:
+* Description of the variable:
 Standard deviation by subject and activity of the variable "mean of 128 readings of body motion acceleration jerk in axis Z in the frequency domain (normalized between -1 and 1)"
 
--Explanation of the schema:
+* Explanation of the schema:
 First level is the domain of the variable (frequency or time), second level indicates the component (body motion or gravitational), third level is the physics concept measured (acceleration or angular velocity), fourth level specifies it is jerk, fifth level is the statistic measured (mean or standard deviation), sixth level is the axis.
 
 
 Variable 62: frequency-body-angularvelocity-standarddeviation-x
 
--Class: character
+* Class: character
 
--Unique values:
+* Unique values:
 -0.5166919 -0.6151214 -0.5293928 -0.5153239 -0.5636153
 -0.234252 -0.6231503 -0.6300821 -0.3576334 -0.6737411
 -0.5048493 -0.1083888 -0.4918592 -0.3744963 -0.5450517
@@ -3635,18 +3703,18 @@ Variable 62: frequency-body-angularvelocity-standarddeviation-x
 -0.9744884 -0.9888607 -0.9750947 -0.9463892 -0.9645446
 -0.9692546 -0.9734468 -0.9930194 -0.9851546 -0.9847133
 
--Description of the variable:
+* Description of the variable:
 Standard deviation by subject and activity of the variable "mean of 128 readings of body motion angular velocity in axis X in the frequency domain (normalized between -1 and 1)"
 
--Explanation of the schema:
+* Explanation of the schema:
 First level is the domain of the variable (frequency or time), second level indicates the component (body motion or gravitational), third level is the physics concept measured (acceleration or angular velocity), fourth level is the statistic measured (mean or standard deviation), fifth level is the axis.
 
 
 Variable 63: frequency-body-angularvelocity-standarddeviation-y
 
--Class: character
+* Class: character
 
--Unique values:
+* Unique values:
 -0.03350816 -0.5688887 -0.5026834 -0.3320087 -0.2908594
 -0.1908057 -0.4536632 0.08329506 -0.3653612 -0.6119409
 -0.4392388 -0.1330103 -0.4194009 -0.4816244 0.2865815
@@ -3684,18 +3752,18 @@ Variable 63: frequency-body-angularvelocity-standarddeviation-y
 -0.9651342 -0.9819106 -0.9561825 -0.9231319 -0.9534535
 -0.9553437 -0.9599441 -0.9834578 -0.9730925 -0.9577929
 
--Description of the variable:
+* Description of the variable:
 Standard deviation by subject and activity of the variable "mean of 128 readings of body motion angular velocity in axis Y in the frequency domain (normalized between -1 and 1)"
 
--Explanation of the schema:
+* Explanation of the schema:
 First level is the domain of the variable (frequency or time), second level indicates the component (body motion or gravitational), third level is the physics concept measured (acceleration or angular velocity), fourth level is the statistic measured (mean or standard deviation), fifth level is the axis.
 
 
 Variable 64: frequency-body-angularvelocity-standarddeviation-z
 
--Class: character
+* Class: character
 
--Unique values:
+* Unique values:
 -0.4365622 -0.5458964 -0.4203671 -0.5122092 -0.46327
 -0.1429742 -0.4985546 -0.1802329 -0.5439976 -0.4032198
 -0.4387687 -0.2202712 -0.3855054 -0.2531739 -0.2878209
@@ -3733,18 +3801,18 @@ Variable 64: frequency-body-angularvelocity-standarddeviation-z
 -0.9721992 -0.9631742 -0.9658075 -0.9656863 -0.9752988
 -0.9564244 -0.9697972 -0.986483 -0.9749953 -0.9836027
 
--Description of the variable:
+* Description of the variable:
 Standard deviation by subject and activity of the variable "mean of 128 readings of body motion angular velocity in axis Z in the frequency domain (normalized between -1 and 1)"
 
--Explanation of the schema:
+* Explanation of the schema:
 First level is the domain of the variable (frequency or time), second level indicates the component (body motion or gravitational), third level is the physics concept measured (acceleration or angular velocity), fourth level is the statistic measured (mean or standard deviation), fifth level is the axis.
 
 
 Variable 65: frequency-body-acceleration-magnitude-standarddeviation
 
--Class: character
+* Class: character
 
--Unique values:
+* Unique values:
 -0.3980326 -0.4563731 -0.5196369 -0.4216831 -0.3517068
 -0.360819 -0.584456 -0.45749 -0.4583448 -0.592151
 -0.5651625 -0.3247934 -0.4381498 -0.3813993 -0.4075775
@@ -3782,18 +3850,18 @@ Variable 65: frequency-body-acceleration-magnitude-standarddeviation
 -0.9640518 -0.9751214 -0.937188 -0.9219297 -0.944305
 -0.9421333 -0.9494313 -0.9876485 -0.9418941 -0.971063
 
--Description of the variable:
+* Description of the variable:
 Standard deviation by subject and activity of the variable "mean of 128 readings of the magnitude of the triaxial body motion acceleration in the frequency domain (normalized between -1 and 1)"
 
--Explanation of the schema:
+* Explanation of the schema:
 First level is the domain of the variable (frequency or time), second level indicates the component (body motion or gravitational), third level is the physics concept measured (acceleration or angular velocity), fourth level specifies it is the magnitude, fifth level is the statistic measured (mean or standard deviation)
 
 
 Variable 66: frequency-body-acceleration-jerk-magnitude-standarddeviation
 
--Class: character
+* Class: character
 
--Unique values:
+* Unique values:
 -0.1034924 -0.08985199 -0.3056854 -0.09649997 -0.02213836
 -0.2764361 -0.4174468 -0.453426 -0.3424119 -0.4414478
 -0.2112319 -0.02228696 -0.01867344 0.1582867 -0.04573723
@@ -3831,18 +3899,18 @@ Variable 66: frequency-body-acceleration-jerk-magnitude-standarddeviation
 -0.9680878 -0.9845685 -0.9580371 -0.9550947 -0.9653776
 -0.961653 -0.9780443 -0.9897107 -0.9795652 -0.9832851
 
--Description of the variable:
+* Description of the variable:
 Standard deviation by subject and activity of the variable "mean of 128 readings of the magnitude of the triaxial body motion acceleration jerk in the frequency domain (normalized between -1 and 1)"
 
--Explanation of the schema:
+* Explanation of the schema:
 First level is the domain of the variable (frequency or time), second level indicates the component (body motion or gravitational), third level is the physics concept measured (acceleration or angular velocity), fourth level specifies it is the jerk, fifth level specifies it is the magnitude, sixth level is the statistic measured (mean or standard deviation)
 
 
 Variable 67: frequency-body-angularvelocity-magnitude-standarddeviation
 
--Class: character
+* Class: character
 
--Unique values:
+* Unique values:
 -0.321018 -0.6326433 -0.5897415 -0.5106483 -0.3438949
 -0.3274596 -0.5997454 -0.2655046 -0.4817502 -0.721137
 -0.6153201 -0.1415984 -0.5122493 -0.4640191 -0.06147658
@@ -3880,18 +3948,18 @@ Variable 67: frequency-body-angularvelocity-magnitude-standarddeviation
 -0.9526444 -0.9610984 -0.9471003 -0.9034006 -0.9337013
 -0.9403738 -0.9461334 -0.9814688 -0.9642059 -0.9613691
 
--Description of the variable:
+* Description of the variable:
 Standard deviation by subject and activity of the variable "mean of 128 readings of the magnitude of the triaxial body motion angular velocity in the frequency domain (normalized between -1 and 1)"
 
--Explanation of the schema:
+* Explanation of the schema:
 First level is the domain of the variable (frequency or time), second level indicates the component (body motion or gravitational), third level is the physics concept measured (acceleration or angular velocity), fourth level specifies it is the magnitude, fifth level is the statistic measured (mean or standard deviation)
 
 
 Variable 68: frequency-body-angularvelocity-jerk-magnitude-standarddeviation
 
--Class: character
+* Class: character
 
--Unique values:
+* Unique values:
 -0.3816019 -0.549087 -0.4556653 -0.4080789 -0.08416638
 -0.5812402 -0.7735741 -0.6556777 -0.6540101 -0.7457269
 -0.5203855 -0.3361487 -0.4293235 -0.4764053 0.2878346
@@ -3929,8 +3997,8 @@ Variable 68: frequency-body-angularvelocity-jerk-magnitude-standarddeviation
 -0.9754815 -0.9894927 -0.9825436 -0.9522905 -0.9607729
 -0.9619116 -0.9727986 -0.992738 -0.9819862 -0.980097
 
--Description of the variable:
+* Description of the variable:
 Standard deviation by subject and activity of the variable "mean of 128 readings of the magnitude of the triaxial body motion angular velocity jerk in the frequency domain (normalized between -1 and 1)"
 
--Explanation of the schema:
+* Explanation of the schema:
 First level is the domain of the variable (frequency or time), second level indicates the component (body motion or gravitational), third level is the physics concept measured (acceleration or angular velocity), fourth level specifies it is the jerk, fifth level specifies it is the magnitude, sixth level is the statistic measured (mean or standard deviation)

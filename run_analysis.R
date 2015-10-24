@@ -191,6 +191,7 @@ if(file.exists("./output/description_tidy_data.txt")) file.remove("./output/desc
 
 for(i in 1:ncol(tidy_data)) {
   write(paste("Variable ",i,": ",names(tidy_data[,i,with=F]),sep=""),"./output/summary_tidy_data.txt",append=TRUE)
+  write("","./output/summary_tidy_data.txt",append=TRUE)
   write(summary(tidy_data[,i,with=F]),"./output/summary_tidy_data.txt",append=TRUE)
   write("","./output/summary_tidy_data.txt",append=TRUE)
 
@@ -198,15 +199,15 @@ for(i in 1:ncol(tidy_data)) {
 
   write(paste("Variable ",i,": ",names(tidy_data[,i,with=F]),sep=""),"./output/description_tidy_data.txt",append=TRUE)
   write("","./output/description_tidy_data.txt",append=TRUE)
-  write(paste("-Class: ",class(names(tidy_data[,i,with=F])),sep=""),"./output/description_tidy_data.txt",append=TRUE)
+  write(paste("* Class: ",class(names(tidy_data[,i,with=F])),sep=""),"./output/description_tidy_data.txt",append=TRUE)
   write("","./output/description_tidy_data.txt",append=TRUE)
-  write("-Unique values:","./output/description_tidy_data.txt",append=TRUE)
+  write("* Unique values:","./output/description_tidy_data.txt",append=TRUE)
   write(sapply(tidy_data[,i,with=F],unique),"./output/description_tidy_data.txt",append=TRUE)
   write("","./output/description_tidy_data.txt",append=TRUE)
-  write("-Description of the variable:","./output/description_tidy_data.txt",append=TRUE)
+  write("* Description of the variable:","./output/description_tidy_data.txt",append=TRUE)
   write(details$description[i],"./output/description_tidy_data.txt",append=TRUE)
   write("","./output/description_tidy_data.txt",append=TRUE)
-  write("-Explanation of the schema:","./output/description_tidy_data.txt",append=TRUE)
+  write("* Explanation of the schema:","./output/description_tidy_data.txt",append=TRUE)
   write(details$schema[i],"./output/description_tidy_data.txt",append=TRUE)
   write("","./output/description_tidy_data.txt",append=TRUE)
   write("","./output/description_tidy_data.txt",append=TRUE)
