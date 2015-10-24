@@ -41,11 +41,9 @@ activity_labels file were named "activity" (code) and "act_name" (description).
 
 The steps followed for merging are:
 
-*Adding the variables in X_train, y_train and subject_train datasets with cbind. The resultant dataset has 563 variables (561+1+1) and 7.352 rows.
-
-*Adding the variables in X_test, y_test and subject_test datasets with cbind. The resultant dataset has 563 variables (561+1+1) and 2.947 rows.
-
-*Append the train and test sets obtained in the previous steps with rbind. The resultant data set has 563 variables and 10.299 rows.
+* Adding the variables in X_train, y_train and subject_train datasets with cbind. The resultant dataset has 563 variables (561+1+1) and 7.352 rows.
+* Adding the variables in X_test, y_test and subject_test datasets with cbind. The resultant dataset has 563 variables (561+1+1) and 2.947 rows.
+* Append the train and test sets obtained in the previous steps with rbind. The resultant data set has 563 variables and 10.299 rows.
 
 ##Part 2: Extract measurements on the mean and standard deviation
 
@@ -61,11 +59,9 @@ added to this group of variables, obtaining as output a reduced dataset of 68 va
 The activity_labels.txt file has the description of the six activity codes present in the dataset. For better understanding purposes, the codes were replaced with 
 description. The procedure to achieve this is as follows:
 
-*Add the variable "act_name" from the activity_labels to the resulting dataset from Part 2, using variable "activity" as key. 
-
-*Remove the original "activity" variable containing code.
-
-*Rename "act_name" as "activity".
+* Add the variable "act_name" from the activity_labels to the resulting dataset from Part 2, using variable "activity" as key. 
+* Remove the original "activity" variable containing code.
+* Rename "act_name" as "activity".
 
 These steps can be interpreted as a replacement of the codes in variable "activity" with their respective descriptions.
 
